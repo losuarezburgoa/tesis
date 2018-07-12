@@ -1,6 +1,6 @@
 \contentsline {chapter}{\hbox to\@tempdima {\hfil }Agradecimientos}{\es@scroman {vii}}
 \contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{\es@scroman {ix}}
-\select@language {spanish}
+\babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducci\'{o}n}{2}
 \contentsline {chapter}{\numberline {2}Fundamentos de estabilidad de laderas.}{5}
 \contentsline {chapter}{\numberline {3}Scoops3D.}{6}
@@ -23,5 +23,5 @@
 \contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{37}
 \contentsline {subsection}{\numberline {5.1.5}Interpretacion}{39}
 \contentsline {chapter}{\numberline {6}Recorrido de Campo}{40}
-\contentsline {section}{\numberline {6.1}Conclusiones}{41}
-\contentsline {section}{\numberline {6.2}Recomendaciones}{41}
+\contentsline {section}{\numberline {6.1}Conclusiones}{42}
+\contentsline {section}{\numberline {6.2}Recomendaciones}{42}
