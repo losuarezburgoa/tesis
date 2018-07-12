@@ -1,0 +1,27 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Agradecimientos}{\es@scroman {vii}}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{\es@scroman {ix}}
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\'{o}n}{2}
+\contentsline {chapter}{\numberline {2}Fundamentos de estabilidad de laderas.}{5}
+\contentsline {chapter}{\numberline {3}Scoops3D.}{6}
+\contentsline {section}{\numberline {3.1}Funcionamiento de los m\'etodos de estabilidad de laderas en Scoops3D}{8}
+\contentsline {section}{\numberline {3.2}Modelo de elevaci\'{o}n digital.}{10}
+\contentsline {section}{\numberline {3.3}interfaz de usuario.}{12}
+\contentsline {section}{\numberline {3.4}Archivos de salida.}{17}
+\contentsline {chapter}{\numberline {4}Zona de estudio.}{20}
+\contentsline {section}{\numberline {4.1}Condiciones atmosf\'{e}ricas.}{22}
+\contentsline {section}{\numberline {4.2}Geolog\'ia}{22}
+\contentsline {section}{\numberline {4.3}Geomorfolog\'{i}a.}{24}
+\contentsline {chapter}{\numberline {5}Scoops3D.}{26}
+\contentsline {section}{\numberline {5.1}Prueba piloto}{26}
+\contentsline {subsection}{\numberline {5.1.1}DEM usado en pruebas preliminares}{28}
+\contentsline {subsection}{\numberline {5.1.2}Pruebas Ejecutadas.}{30}
+\contentsline {subsection}{\numberline {5.1.3}Par\'ametros de resistencia.}{32}
+\contentsline {subsection}{\numberline {5.1.4}Pruebas Preliminares.}{34}
+\contentsline {subsubsection}{\nonumberline Par\'ametros de control.}{34}
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{36}
+\contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{37}
+\contentsline {subsection}{\numberline {5.1.5}Interpretacion}{39}
+\contentsline {chapter}{\numberline {6}Recorrido de Campo}{40}
+\contentsline {section}{\numberline {6.1}Conclusiones}{41}
+\contentsline {section}{\numberline {6.2}Recomendaciones}{41}

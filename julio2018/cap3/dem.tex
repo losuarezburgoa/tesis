@@ -1,0 +1,67 @@
+\section{Modelo de elevaci\'{o}n digital.}
+
+
+Un modelo de elevaci\'{o}n digital (DEM por sus siglas en ingl\'{e}s) es un archivo digital que
+representa una superficie en el espacio tridimensional, pueden realizarse modelos de
+elevaci\'{o}n digital de espacios existentes en la superficie terrestre, planetas otros cuerpos
+estelares.
+El modelo de elevaci\'{o}n digital posee como principal caracter\'{i}stica que contiene informaci\'{o}n
+referente a la elevaci\'{o}n de cada punto X,Y.
+T\'{e}rminos sin\'{o}nimos a  ``modelo de elevaci\'{o}n digital '' son Modelo digital de terreno (DTM por
+sus siglas en ingl\'{e}s) y Modelo Digital de Superficie (DSM por sus siglas en ingl\'{e}s).
+La informaci\'{o}n contenida en un DEM puede representarse en forma Raster (rejilla de
+píxeles), de forma vectorial como un TIN (Triangular Irregular Network por sus siglas en
+ingl\'{e}s) o simplemente por puntos de coordenadas XYZ a partir de los cuales se puede
+generar un DEM tipo RASTER o TIN.\\
+Com\'{u}nmente, la informaci\'{o}n DEM es obtenida por técnicas como fotogrametr\'{i}a, lidar,
+IfSAR, recorridos de campo, etc. Gracias a la capacidad de c\'{o}mputo que poseen las
+herramientas SIG actuales, los DEM generados por los sensores remotos actuales cuentan
+con alta resoluci\'{o}n y abarcan importantes extensiones de la superficie terrestre.
+\\
+\textbf{ESRI ASCII.}
+El modelo de superficie trabajado en este proyecto es un DEM RASTER en el formato ESRI
+ASCII (extensi\'{o}n .asc) este archivo cuenta con el siguiente encabezado al abrirse desde un
+editor de texto.
+
+\begin{lstlisting}
+  NCOLS xxx
+    NROWS xxx
+    XLLCENTER xxx | XLLCORNER xxx
+    YLLCENTER xxx | YLLCORNER xxx
+    CELLSIZE xxx
+    NODATA_VALUE xxx
+    row 1
+    row 2
+    ...
+    row n
+\end{lstlisting}
+
+Lo cual corresponde a n\'{u}mero de celdas, n\'{u}mero de columnas, tama\~{n}o de celda (metros
+sobre la superficie terrestre que representa cada p\'{i}xel, debe ser mayor a cero),
+coordenadas x,y del origen y valor que representa la ausencia de informaci\'{o}n.
+ASTER GDEM V2
+La segunda versi\'{o}n de ASTER(Advanced Spaceborne Thermal Emission and Reflection
+Radiometer) GDEM (Global Digital Elevation Model) fue realizada por la NASA (United
+States National Aeronautics and Space Administration) y publicada el 17 de Octubre de
+2011. Esta adquisici\'{o}n consta de topografia digital a escala global y comprende hasta un
+99\% de la superficie terrestre, siendo esta la adquisici\'{o}n de datos topogr\'{a}ficos con mayor
+extensi\'{o}n hecha p\'{u}blica hasta la fecha.
+La resoluci\'{o}n m\'{a}xima de pixel en esta adquisici\'{o}n es de hasta 30m por pixel
+DEM Usado.
+El modelo de elevaci\'{o}n digital empleado en este trabajo corresponde a una muestra tomada
+de ASTER GDEM V2 comprendida entre la coordenadas 650354.816N 8469349.749 W
+641724.797 S 8457102.358 E (metros mercator).La resoluci\'{o}n de pixel obtenida para esta
+zona es de 38m seg\'{u}n consta en el encabezado del DEM Arc ASCII. El sistema de
+coordenadas asignado al DEM es $ MAGNA\_SIRGAS\_Colombia\_West\_zone$.\par
+
+\begin{lstlisting}
+
+ncols 168
+nrows 100
+xllcorner 1109663.905
+yllcorner 1137344.545
+cellsize 38.218514142587
+nodata_value -9999.0
+\end{lstlisting}
+
+El DEM usado en este proyecto se muestra en la imagen \ref{fig:dem usado}
