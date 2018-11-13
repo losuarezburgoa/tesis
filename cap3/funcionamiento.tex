@@ -1,9 +1,61 @@
 \section{Funcionamiento de los m\'etodos de estabilidad de laderas en Scoops3D}
 
-Como se ha mencionado anteriormente, Scoops3D se basa en la aplicaci\'on de los an\'alisis de equilibrio l\'imite por medio de los m\'etodos de dedobelas, que aplicado en un entorno tridimensional puede verse como una an\'alisis por medio de columnas.
-Cada columna posee entonces lados de distancia equivalente, la cual est\'a dada por el tama\~no de pixel que posee el DEM especificado, mientras que la altura de la columna estar\'a dada por la distancia entre la superficie del DEM y la superficie de falla.
 
-La superficie de falla que intersecta las dobelas en profundidad es una esfera con centro en cualquier lugar sobre la superficie del DEM y un radio \textit{r}. Scoops3D incluye en el an\'alisis de cada superficie de falla todas y cada una de las dobelas cuyo p\'ixel correspondiente posea 2 o mas v\'ertices al interior de la superficie de falla.\\
+
+Como se ha mencionado anteriormente, Scoops3D se basa en la aplicaci\'on de los an\'alisis de equilibrio l\'imite por medio de los m\'etodos de de dobelas, que aplicado en un entorno tridimensional puede verse como una an\'alisis por medio de columnas.
+Cada columna posee entonces lados de distancia equivalente, dados por el tama\~no de pixel que posee el DEM especificado, mientras que la altura de la columna estar\'a dada por la distancia entre la superficie del DEM y la superficie de falla.
+
+La superficie de falla que intersecta las dobelas en profundidad es una esfera con centro en cualquier lugar sobre la superficie del DEM y un radio \textit{r}. Scoops3D incluye en el an\'alisis de cada superficie de falla todas y cada una de las columnas cuyo p\'ixel correspondiente posea 2 o mas v\'ertices al interior de la superficie de falla.\\
+
+La superficie de falla en la base de cada columna puede discretizarse como un plano con inclinacion $ \xi$ el cual se encuentra a una distancia \textit{R} del centro de la esfera de falla.
+
+
+\subsection{inclinacion del plano basal}
+
+
+Partiendo de la ecuacion para la generacion de una superficie esferica:
+
+$$ \textit{R}^{2} = \textit{x}^{2} + \textit{y}^{2} + \textit{z}^{2}$$
+
+por lo cual el buzamiento aparente $\xi$ del plano estaria dado por
+$$ \xi = \textit{cos}^{-1}  (\dfrac{1}{\sqrt{1+(\partial z/ \partial x)^{2} + (\partial z/ \partial y)^{2} }})   $$ 
+
+mientras que el buzamiento real $ \alpha$ estaria representado por \\
+$$ \alpha = tan^{-1} ((\partial z/ \partial x)\textit{cos}\varphi +(\partial z/ \partial x)\textit{sin}\varphi )  $$
+donde $\varphi$ es la direccion de buzamiento de la ladera en el lugar donde se encuentra ubicada la columna
+
+Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular su vol\'umen, y posteriormente su peso.
+
+\subsection{Vol\'umen de la columna}
+
+
+
+\begin{figure}[h]
+\caption{Columna de evaluaci\'on}
+\centering
+\includegraphics[width=0.5\textwidth]{complete_column.JPG}
+\caption{Representaci\'on gr\'afica de una columna completamente contenida dentro de una esfera de evaluaci\'on. Fuente: Manual de usuario de Scoops3D.}
+\label{fig:Interfaz de usuario}
+\end{figure}
+
+Dado que scoops3D tiene en cuenta todas aquellas columnas que contengan 2 vertices al interior de la esfera de busqueda, es posible que solo una parte de la columna este contenida dentro de dicha esfera, caso en el cual el volumen de dicha parte incluida debe ser calculado.
+En este caso y partiendo de la figura 3.2, se toma un plano intermedio $ S_{1} $ entre los planos $ S_{0} $ y $ S_{2} $
+
+En los casos en los que una columna es contenida es su totalidad, es decir, que sus planos  paralelos $S_{0}$ y $S_{2}$ tienen igual area. el volumen (\textit{V}) estara dado por 
+
+$$\textit{V}= (1/6)\vartriangle \textit{x}(S_{0} + 4S_{1} + S_{2})$$
+
+donde el area del plano $\textit{S}_{0}$ estara dada por
+$$ \textit{S}_{0} = (1/2)(\vartriangle z_{1} +\vartriangle z_{1})+\vartriangle \textit{y}_{1}  $$
+
+y el area del plano paralelo $\textit{S}_{0}$
+$$ \textit{S}_{2} = (1/2)(\vartriangle z_{2} +\vartriangle z_{3})+\vartriangle \textit{y}_{2}  $$
+
+Finalmente, el peso $W$ de la columna estara representado por
+
+$$\textit{W} = \int \textit{V} \gamma (\textit{z}) \textit{dz} $$
+
+Donde $ \gamma$ es el peso unitario del suelo, el cual puede variar con la profundidad $\textit{z}$
 
 En general, los m\'etodos de equilibrio l\'imite definen el Factor de seguridad (F) como la relaci\'on entre las fuerzas resistentes  \textit{s} y las fuerzas actuantes $\tau$
 
