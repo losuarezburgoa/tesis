@@ -10,19 +10,19 @@ La superficie de falla que intersecta las dobelas en profundidad es una esfera c
 La superficie de falla en la base de cada columna puede discretizarse como un plano con inclinacion $ \xi$ el cual se encuentra a una distancia \textit{R} del centro de la esfera de falla.
 
 
-\subsection{inclinacion del plano basal}
+\subsection{inclinaci\'on del plano basal}
 
 
-Partiendo de la ecuacion para la generacion de una superficie esferica:
+Partiendo de la ecuaci\'on para la generaci\'on de una superficie esf\'erica:
 
 $$ \textit{R}^{2} = \textit{x}^{2} + \textit{y}^{2} + \textit{z}^{2}$$
 
 por lo cual el buzamiento aparente $\xi$ del plano estaria dado por
 $$ \xi = \textit{cos}^{-1}  (\dfrac{1}{\sqrt{1+(\partial z/ \partial x)^{2} + (\partial z/ \partial y)^{2} }})   $$ 
 
-mientras que el buzamiento real $ \alpha$ estaria representado por \\
+mientras que el buzamiento real $ \alpha$ estar\'ia representado por \\
 $$ \alpha = tan^{-1} ((\partial z/ \partial x)\textit{cos}\varphi +(\partial z/ \partial x)\textit{sin}\varphi )  $$
-donde $\varphi$ es la direccion de buzamiento de la ladera en el lugar donde se encuentra ubicada la columna
+donde $\varphi$ es la direcci\'on de buzamiento de la ladera en el lugar donde se encuentra ubicada la columna
 
 Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular su vol\'umen, y posteriormente su peso.
 
@@ -35,23 +35,23 @@ Teniendo entonces los l\'imites de la columna de an\'alisis, es posible calcular
 \centering
 \includegraphics[width=0.5\textwidth]{complete_column.JPG}
 \caption{Representaci\'on gr\'afica de una columna completamente contenida dentro de una esfera de evaluaci\'on. Fuente: Manual de usuario de Scoops3D.}
-\label{fig:Interfaz de usuario}
+\label{fig:failure-plane}
 \end{figure}
 
-Dado que scoops3D tiene en cuenta todas aquellas columnas que contengan 2 vertices al interior de la esfera de busqueda, es posible que solo una parte de la columna este contenida dentro de dicha esfera, caso en el cual el volumen de dicha parte incluida debe ser calculado.
+Dado que scoops3D tiene en cuenta todas aquellas columnas que contengan 2 vertices al interior de la esfera de busqueda, es posible que solo una parte de la columna este contenida dentro de dicha esfera, caso en el cual el vol\'umen de dicha parte incluida debe ser calculado.
 En este caso y partiendo de la figura 3.2, se toma un plano intermedio $ S_{1} $ entre los planos $ S_{0} $ y $ S_{2} $
 
-En los casos en los que una columna es contenida es su totalidad, es decir, que sus planos  paralelos $S_{0}$ y $S_{2}$ tienen igual area. el volumen (\textit{V}) estara dado por 
+En los casos en los que una columna es contenida es su totalidad, es decir, que sus planos  paralelos $S_{0}$ y $S_{2}$ tienen igual area. el vol\'umen (\textit{V}) estar\'a dado por 
 
 $$\textit{V}= (1/6)\vartriangle \textit{x}(S_{0} + 4S_{1} + S_{2})$$
 
-donde el area del plano $\textit{S}_{0}$ estara dada por
+donde el \'area del plano $\textit{S}_{0}$ estar\'a dada por
 $$ \textit{S}_{0} = (1/2)(\vartriangle z_{1} +\vartriangle z_{1})+\vartriangle \textit{y}_{1}  $$
 
-y el area del plano paralelo $\textit{S}_{0}$
+y el are\'a del plano paralelo $\textit{S}_{0}$
 $$ \textit{S}_{2} = (1/2)(\vartriangle z_{2} +\vartriangle z_{3})+\vartriangle \textit{y}_{2}  $$
 
-Finalmente, el peso $W$ de la columna estara representado por
+Finalmente, el peso $W$ de la columna estar\'a representado por
 
 $$\textit{W} = \int \textit{V} \gamma (\textit{z}) \textit{dz} $$
 
@@ -67,7 +67,7 @@ La fuerza actuante (\textit{T}) sobre \textit{A} estar\'a dada por
 
 $$\textit{T}=\left(\frac{1}{\textit{A}}\right)\int_{\textit{A}}^{} \frac{\textit{s}\textit{A}}{\textit{F}} \textit{dA}$$
 
-Discretizando las componentes\textit{i} y \textit{j} correspondientes a las fuerzas resistentes \textit{x} y \textit{y} respectivamente, se tiene.
+Discretizando las componentes \textit{i} y \textit{j} correspondientes a las fuerzas resistentes \textit{x} y \textit{y} respectivamente, se tiene.
 
 $$\textit{T} = \frac{1}{\textit{F}} \Sigma\textit{s}_{\textit{i,j}} \textit{A}_{\textit{i,j}}$$
 
@@ -98,7 +98,7 @@ $$\textit{T} = \frac{1}{\textit{F}} \Sigma\textit{s}_{\textit{i,j}} \textit{A}_{
 \hline 
 \end{tabular} 
 \end{center}
-La columna $\textit{i}=1$ y $\textit{j}=1$ ser\'a aquella ubicada en la posici\'on del p\'ixel en la esquina inferior izquierda del DEM.
+La columna $\textit{i}=1$ y $\textit{j}=1$ ser\'an aquellas ubicada en la posici\'on del p\'ixel en la esquina inferior izquierda del DEM.
 
 El equilibrio de momentos se calcula a lo largo de un eje rotacional basado en el centro de la esfera de falla, dicho eje es horizontal y normal a la direcci\'on potencial de falla.
 El momento actuante est\'a direccionado principalmente por la fuerza de la gravedad (\textit{W})
@@ -117,7 +117,7 @@ $$ {M}_{Total} = \Sigma \textit{R}_{i,j} \frac{\textit{C}_{i,j}\textit{A}_{i,j}+
 
 Donde $\textit{N}_{i,j}$ es la fuerza normal correspondiente a cada columna.\\
 
-El momento de equilibrio para una columna individual estar? dada entonces por la expresion.
+El momento de equilibrio para una columna individual estar\'a dada entonces por la expresion.
 $$ \Sigma \textit{M}= \Sigma \textit{R}_{i,j} \frac{\textit{c}_{i,j}\textit{A}_{i,j}+(\textit{N}_{i,j}-\textit{u}_{i,j}\textit{A}_{i,j})\tan\phi _{i,j}}{F}-\Sigma \textit{W}_{i,j}\textit{R}_{i,j}\sin \alpha _{i,j} $$
 
 Por lo que el factor de seguridad \textit{F} Est\'a dado por:

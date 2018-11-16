@@ -1,7 +1,7 @@
 \section{Archivos de salida.}
 \label{chap: archivos de salida}
 Scoops3D tiene la capacidad de producir una gran variedad de archivos de salida los
-cuales le posibilitan al usuario obtener informaci\'{o}n acerca de la corrida realizada as\'{i} como
+cuales le posibilitan al usuario obtener informaci\'{o}n acerca del an\'alisis realizada as\'{i} como
 obtener un estimativo de la distribuci\'{o}n espacial de los factores de seguridad para las zonas
 contenidas en el DEM base, teniendo en cuenta los par\'{a}metros de resistencia introducidos.
 Cada archivo de salida est\'{a} compuesto principalmente por el nombre del proyecto ejecutado, seguido por el car\'{a}cter gui\'{o}n bajo (\_) y el nombre respectivo del archivo generado.
@@ -16,7 +16,7 @@ En la siguiente tabla se listan los archivos est\'{a}ndar de salida junto con su
 \label{output_files}
 \begin{tabular}{@{}ll@{}}
 \toprule
-\_out.txt          & \begin{tabular}[c]{@{}l@{}}Este archivo en formato de texto plano contiene\\   los par\'{a}metros de resistencia y par\'{a}metros de b\'{u}squeda introducidos en la\\   interfaz de usuario de Scoops3D, así como informaci\'{o}n básica de la prueba\\   realizada, m\'{e}todo de análisis de estabilidad usado, listado de archivos de\\   salida generados, dimensiones del DEM base y DEMs generados.\end{tabular} \\ \midrule
+\_out.txt          & \begin{tabular}[c]{@{}l@{}}Este archivo en formato de texto plano contiene\\   los par\'{a}metros de resistencia y par\'{a}metros de b\'{u}squeda introducidos en la\\   interfaz de usuario de Scoops3D, as\'i como informaci\'{o}n básica de la prueba\\   realizada, m\'{e}todo de análisis de estabilidad usado, listado de archivos de\\   salida generados, dimensiones del DEM base y DEMs generados.\end{tabular} \\ \midrule
 \_fos3d\_out.asc   & \begin{tabular}[c]{@{}l@{}}Este archivo tipo ASCII DEM posee las mismas\\   dimensiones del DEM original, contiene la distribuci\'{o}n de factores de\\   seguridad calculados para cada p\'{i}xel\end{tabular}                                                                                                                                                                                             \\
 \_fosvol\_out.asc  & \begin{tabular}[c]{@{}l@{}}Este archivo\\   tipo DEM contiene la magnitud de masa o metros c\'{u}bicos de material desplazado\\   en un \'{a}rea cuyo factor de seguridad sea inferior a 1\end{tabular}                                                                                                                                                                                                     \\
 o                  &                                                                                                                                                                                                                                                                                                                                                                                                     \\
@@ -29,13 +29,13 @@ o                  &                                                            
 \end{table}
 
 
-Adicionalmente se cuenta con el archivo Boundcheck. este es un archivo raster en el cual se puede observar si los limites de la rejilla de b\'usqueda ha sido una limitante para la detecci\'on de superficies de falla.
+Adicionalmente se cuenta con el archivo Boundcheck. Este es un archivo raster en el cual se puede observar si los l\'mites de la rejilla de b\'usqueda ha sido una limitante para la detecci\'on de superficies de falla.
 Considerando, por ejemplo, una ladera de baja pendiente compuesta por materiales de baja competencia los cuales presentan una superficie de falla ante determinadas condiciones de humedad o longitud de la ladera. En este caso,  el centro de la esfera que sigue la trayectoria de dicha superficie de falla rotacional se encontraría ubicado en una altitud considerable respecto a la ladera en cuestion.
 
-a medida que la ladera posee una pendiente menos pronunciada, el centro de la esfera de falla tendería al infinito.
+A medida que la ladera posee una pendiente menos pronunciada, el centro de la esfera de falla tendería a encontrarse en una altitud infinita.
 
-dado que a partir de determinados parámetros de resistencia la aplicaci\'on del m\'etodo de Bishop comienza a producir factores de seguridad cada vez mas elevados, no es necesario realizar pruebas en b\'usqueda de centros de esfera que se aproximen a infinito.
-sin embargo si es posible realizar una busqueda en la cual la altura m\'axima de centros de esfera sea una limitante para hayar superficies de falla que posean factor de seguridad  considerableente bajo. Para ello, el archivo boundcheck muestra distintos valores en funci\'on del comportamiento del centro de esfera respecto a los l\'imtes verticales y laterales de la caja de b\'usqueda.
+Dado que a partir de determinados parámetros de resistencia la aplicaci\'on del m\'etodo de Bishop comienza a producir factores de seguridad cada vez mas elevados, no es necesario realizar pruebas en b\'usqueda de centros de esfera que se aproximen a infinito.
+Sin embargo s\'i es posible realizar una b\'usqueda en la cual la altura m\'axima de centros de esfera sea una limitante para hayar superficies de falla que posean factor de seguridad  considerableente bajo. Para ello, el archivo boundcheck muestra distintos valores en funci\'on del comportamiento del centro de esfera respecto a los l\'imtes verticales y laterales de la caja de b\'usqueda.
 
 \begin{table}[]
 \centering
@@ -43,7 +43,7 @@ sin embargo si es posible realizar una busqueda en la cual la altura m\'axima de
 \label{my-label}
 \begin{tabular}{ll}
 \hline
-\multicolumn{1}{|l|}{\textbf{c\'odigo}} & \multicolumn{1}{l|}{\textbf{problema encontrado}} \\ \hline
+\multicolumn{1}{|l|}{\textbf{c\'odigo}} & \multicolumn{1}{l|}{\textbf{Caso encontrado}} \\ \hline
 0                                     & ninguno                                           \\
 100                                   & ancho m\'inimo muy alejado                          \\
 900                                   & ancho m\'aximo muy cercano                          \\
