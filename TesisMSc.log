@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.3)  3 DEC 2018 00:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  3 DEC 2018 02:18
 entering extended mode
 **./TesisMSc.tex
 (TesisMSc.tex
@@ -145,10 +145,10 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 File: ansinew.def 2018/04/06 v1.3b Input encoding file
 ))
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/11/13 3.27 The Babel package
+Package: babel 2018/09/26 3.24 The Babel package
 
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
@@ -162,7 +162,7 @@ sh.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/11/13 3.27 Babel common definitions
+File: babel.def 2018/09/26 3.24 Babel common definitions
 \babel@savecnt=\count90
 \U@D=\dimen104
 
@@ -667,41 +667,65 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-No file TesisMSc.aux.
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmath\sansmath.s
+ty"
+Package: sansmath 2007/02/28  ver 1.1 Donald Arseneau
+\c@mv@sans=\count150
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfsl' in version `sans'
+(Font)                  OT1/lmss/m/sl --> OT1/lmss/m/sl on input line 104.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 105.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
+(Font)                  OML/cmm/m/it --> OML/cmm/m/it on input line 109.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `sans'
+(Font)                  OT1/lmss/bx/sl --> OT1/lmss/bx/n on input line 112.
+) (TesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ (Kap1/Kap1.aux)
+(Kap2/Kap2.aux) (cap3/kap3.aux) (Kap4/Kap4.aux) (Kap5/Kap5.aux)
+
+LaTeX Warning: Label `fig:dem usado' multiply defined.
+
+)
 \openout1 = `TesisMSc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 30.
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 32.
+ ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count150
+\scratchcounter=\count151
 \scratchdimen=\dimen175
 \scratchbox=\box49
-\nofMPsegments=\count151
-\nofMParguments=\count152
+\nofMPsegments=\count152
+\nofMParguments=\count153
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count153
+\MPscratchCnt=\count154
 \MPscratchDim=\dimen176
-\MPnumerator=\count154
-\makeMPintoPDFobject=\count155
+\MPnumerator=\count155
+\makeMPintoPDFobject=\count156
 \everyMPtoPDFconversion=\toks38
 )
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
@@ -732,7 +756,12 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 .sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
 ds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
@@ -749,7 +778,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count156
+\c@lstlisting=\count157
 
 ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
@@ -921,29 +950,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--69
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 73--32
+Underfull \hbox (badness 10000) in paragraph at lines 73--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--32
+Underfull \hbox (badness 10000) in paragraph at lines 73--34
 
  []
 
 [9]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 44.
 
  ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-No file TesisMSc.toc.
-\tf@toc=\write3
-\openout3 = `TesisMSc.toc'.
+) (TesisMSc.toc
+Package tocbasic Info: Using my definition of `\numberline' on input line 1.
 
-[1
+
+LaTeX Font Warning: Font shape `OT1/lmss/bx/sc' undefined
+(Font)              using `OT1/lmss/bx/n' instead on input line 1.
+
+
+Package spanish Warning: Replacing `OT1/lmss/bx/sc' by 
+(spanish)                faked small caps on input line 1.
+
+Package tocbasic Info: Using my definition of `\numberline' on input line 2.
+
+Package spanish Warning: Replacing `OT1/lmss/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
+Package tocbasic Info: Using my definition of `\numberline' on input line 6.
+Package tocbasic Info: Using my definition of `\numberline' on input line 7.
+Package tocbasic Info: Using my definition of `\numberline' on input line 8.
+Package tocbasic Info: Using my definition of `\numberline' on input line 9.
+Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+Package tocbasic Info: Using my definition of `\numberline' on input line 11.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
+Package tocbasic Info: Using my definition of `\numberline' on input line 14.
+Package tocbasic Info: Using my definition of `\numberline' on input line 15.
+Package tocbasic Info: Using my definition of `\numberline' on input line 16.
+Package tocbasic Info: Using my definition of `\numberline' on input line 17.
+Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+Package tocbasic Info: Using my definition of `\numberline' on input line 20.
+Package tocbasic Info: Using my definition of `\numberline' on input line 21.
+[10
 
 
 ]
+Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 23.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+)
+\tf@toc=\write3
+\openout3 = `TesisMSc.toc'.
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [1]
 \openout2 = `Kap1/Kap1.aux'.
 
  (Kap1/Kap1.tex
@@ -990,8 +1066,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--29
 Underfull \vbox (badness 5091) has occurred while \output is active []
 
  [3])
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
 
 [4]
 \openout2 = `Kap2/Kap2.aux'.
@@ -1003,8 +1079,8 @@ chapter 2.
 
 
 ])
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
  [6]
 \openout2 = `cap3/kap3.aux'.
 
@@ -1020,7 +1096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<img/INTRO.JPG, id=61, 470.50781pt x 328.22626pt>
+<img/INTRO.JPG, id=64, 470.50781pt x 328.22626pt>
 File: img/INTRO.JPG Graphic file (type jpg)
 <use img/INTRO.JPG>
 Package pdftex.def Info: img/INTRO.JPG  used on input line 13.
@@ -1033,8 +1109,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
 
 [8 <./img/INTRO.JPG>] (cap3/funcionamiento.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -1051,7 +1127,7 @@ LaTeX Info: Redefining \% on input line 24.
 [9
 
 ]
-<img/complete_column.JPG, id=74, 447.92343pt x 404.26031pt>
+<img/complete_column.JPG, id=78, 447.92343pt x 404.26031pt>
 File: img/complete_column.JPG Graphic file (type jpg)
 <use img/complete_column.JPG>
 Package pdftex.def Info: img/complete_column.JPG  used on input line 36.
@@ -1085,13 +1161,8 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 30.
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
-[14]
-
-LaTeX Warning: Reference `fig:dem usado' on page 15 undefined on input line 68.
-
-
-) (cap3/interfaz.tex
-<img/main_window.PNG, id=95, 548.0475pt x 548.0475pt>
+[14]) (cap3/interfaz.tex
+<img/main_window.PNG, id=98, 548.0475pt x 548.0475pt>
 File: img/main_window.PNG Graphic file (type png)
 <use img/main_window.PNG>
 Package pdftex.def Info: img/main_window.PNG  used on input line 5.
@@ -1111,7 +1182,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
  [15]
-<img/units_winow.PNG, id=100, 281.55188pt x 201.75375pt>
+<img/units_winow.PNG, id=104, 281.55188pt x 201.75375pt>
 File: img/units_winow.PNG Graphic file (type png)
 <use img/units_winow.PNG>
 Package pdftex.def Info: img/units_winow.PNG  used on input line 14.
@@ -1122,14 +1193,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
  [16 <./img/main_window.PNG>]
-
-LaTeX Warning: Reference `unidades' on page 17 undefined on input line 25.
-
-<img/model.JPG, id=106, 627.09282pt x 367.3725pt>
+<img/model.JPG, id=109, 627.09282pt x 367.3725pt>
 File: img/model.JPG Graphic file (type jpg)
 <use img/model.JPG>
 Package pdftex.def Info: img/model.JPG  used on input line 29.
 (pdftex.def)             Requested size: 422.52054pt x 247.53409pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1139,15 +1208,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--42
  []
 
 
-LaTeX Warning: Reference `fig:parameters' on page 17 undefined on input line 45
-.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 43--46
 
  []
 
-<img/material_properties_window.PNG, id=107, 319.1925pt x 131.74219pt>
+<img/material_properties_window.PNG, id=110, 319.1925pt x 131.74219pt>
 File: img/material_properties_window.PNG Graphic file (type png)
 <use img/material_properties_window.PNG>
 Package pdftex.def Info: img/material_properties_window.PNG  used on input line
@@ -1156,16 +1221,11 @@ Package pdftex.def Info: img/material_properties_window.PNG  used on input line
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
 [17 <./img/units_winow.PNG>]
-
-LaTeX Warning: Reference `modelo piezometrico' on page 18 undefined on input li
-ne 56.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 55--58
 
  []
 
-<img/piezo.JPG, id=112, 649.67719pt x 389.95688pt>
+<img/piezo.JPG, id=115, 649.67719pt x 389.95688pt>
 File: img/piezo.JPG Graphic file (type jpg)
 <use img/piezo.JPG>
 Package pdftex.def Info: img/piezo.JPG  used on input line 62.
@@ -1176,11 +1236,7 @@ Underfull \vbox (badness 2744) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 66.
 LaTeX Info: Redefining \% on input line 66.
  [18 <./img/model.JPG> <./img/material_properties_window.PNG>]
-
-LaTeX Warning: Reference `searchbox-parameters' on page 19 undefined on input l
-ine 79.
-
-<img/search_config_window.PNG, id=117, 234.8775pt x 519.44063pt>
+<img/search_config_window.PNG, id=120, 234.8775pt x 519.44063pt>
 File: img/search_config_window.PNG Graphic file (type png)
 <use img/search_config_window.PNG>
 Package pdftex.def Info: img/search_config_window.PNG  used on input line 86.
@@ -1211,21 +1267,18 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 40.
 
 )
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
  [22]
 \openout2 = `Kap4/Kap4.aux'.
 
  (Kap4/Kap4.tex
 chapter 4.
 
-LaTeX Warning: Reference `fig:slopes' on page 23 undefined on input line 8.
-
-
 
 pdfTeX warning: pdflatex (file ./img/pendientes.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/pendientes.pdf, id=132, 284.55602pt x 270.27274pt>
+<img/pendientes.pdf, id=135, 284.55602pt x 270.27274pt>
 File: img/pendientes.pdf Graphic file (type pdf)
 <use img/pendientes.pdf>
 Package pdftex.def Info: img/pendientes.pdf  used on input line 12.
@@ -1237,8 +1290,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ])
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
 
 [24 <./img/pendientes.pdf>] (Kap4/atmos.tex) (Kap4/geo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -1251,9 +1304,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
  []
 
 
-LaTeX Warning: Reference `fig:mapageo' on page 25 undefined on input line 15.
-
-
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 16.
@@ -1264,7 +1314,7 @@ LaTeX Info: Redefining \% on input line 16.
 
 pdfTeX warning: pdflatex (file ./img/geologia.pdf): PDF inclusion: found PDF ve
 rsion <1.6>, but at most version <1.5> allowed
-<img/geologia.pdf, id=175, 142.29224pt x 142.29224pt>
+<img/geologia.pdf, id=178, 142.29224pt x 142.29224pt>
 File: img/geologia.pdf Graphic file (type pdf)
 <use img/geologia.pdf>
 Package pdftex.def Info: img/geologia.pdf  used on input line 21.
@@ -1276,11 +1326,6 @@ LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
  [26])
 (Kap4/geomorfo.tex
-
-LaTeX Warning: Reference `fig:mapageomorfo' on page 27 undefined on input line 
-2.
-
-
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3.
@@ -1289,14 +1334,14 @@ LaTeX Info: Redefining \% on input line 3.
 
 pdfTeX warning: pdflatex (file ./img/geomorfo.pdf): PDF inclusion: found PDF ve
 rsion <1.6>, but at most version <1.5> allowed
-<img/geomorfo.pdf, id=212, 142.29224pt x 142.29224pt>
+<img/geomorfo.pdf, id=216, 142.29224pt x 142.29224pt>
 File: img/geomorfo.pdf Graphic file (type pdf)
 <use img/geomorfo.pdf>
 Package pdftex.def Info: img/geomorfo.pdf  used on input line 11.
 (pdftex.def)             Requested size: 375.57779pt x 375.60489pt.
 )
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
  [28 <./img/geomorfo.pdf>]
 \openout2 = `Kap5/Kap5.aux'.
 
@@ -1306,13 +1351,13 @@ chapter 5.
 
 
 ])
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
  [30] (Kap5/PremtestDEM.tex
 
 pdfTeX warning: pdflatex (file ./img/dem.pdf): PDF inclusion: found PDF version
  <1.6>, but at most version <1.5> allowed
-<img/dem.pdf, id=257, 142.29224pt x 142.29224pt>
+<img/dem.pdf, id=260, 142.29224pt x 142.29224pt>
 File: img/dem.pdf Graphic file (type pdf)
 <use img/dem.pdf>
 Package pdftex.def Info: img/dem.pdf  used on input line 5.
@@ -1331,21 +1376,12 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
 
-[32]
-
-LaTeX Warning: Reference `fig:dem usado' on page 33 undefined on input line 70.
-
-
-
-LaTeX Warning: Reference `fig:parameters' on page 33 undefined on input line 70
-.
-
-) (Kap5/premtestsearchBox.tex
+[32]) (Kap5/premtestsearchBox.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<img/search_setup.PNG, id=283, 431.36156pt x 557.83406pt>
+<img/search_setup.PNG, id=286, 431.36156pt x 557.83406pt>
 File: img/search_setup.PNG Graphic file (type png)
 <use img/search_setup.PNG>
 Package pdftex.def Info: img/search_setup.PNG  used on input line 7.
@@ -1354,33 +1390,20 @@ LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 [33]
 
-LaTeX Warning: Reference `fig:boundcheck' on page 34 undefined on input line 20
-.
-
-
-
 pdfTeX warning: pdflatex (file ./img/boundcheck.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/boundcheck.pdf, id=287, 284.55602pt x 270.27274pt>
+<img/boundcheck.pdf, id=291, 284.55602pt x 270.27274pt>
 File: img/boundcheck.pdf Graphic file (type pdf)
 <use img/boundcheck.pdf>
 Package pdftex.def Info: img/boundcheck.pdf  used on input line 24.
 (pdftex.def)             Requested size: 284.55531pt x 270.27206pt.
-
-LaTeX Warning: Reference `chap: archivos de salida' on page 34 undefined on inp
-ut line 26.
-
-
-LaTeX Warning: Reference `chap: archivos de salida' on page 34 undefined on inp
-ut line 26.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
  [34 <./img/search_setup.PNG>]
-<img/symbology.PNG, id=293, 54.9553pt x 131.74219pt>
+<img/symbology.PNG, id=296, 54.9553pt x 131.74219pt>
 File: img/symbology.PNG Graphic file (type png)
 <use img/symbology.PNG>
 Package pdftex.def Info: img/symbology.PNG  used on input line 35.
@@ -1427,16 +1450,8 @@ LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
  [36])
 (Kap5/premtest.tex
-
-LaTeX Warning: Reference `fig:pottsville' on page 37 undefined on input line 5.
-
-
-
-LaTeX Warning: Reference `fig:repetto' on page 37 undefined on input line 5.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
-\OT1/lmr/m/n/12 ser-var
+\OT1/lmr/m/n/12 ob-ser-var
  []
 
 
@@ -1525,7 +1540,7 @@ Overfull \hbox (12.16577pt too wide) in paragraph at lines 34--34
 
 pdfTeX warning: pdflatex (file ./img/AreniscaPottsville.pdf): PDF inclusion: fo
 und PDF version <1.6>, but at most version <1.5> allowed
-<img/AreniscaPottsville.pdf, id=331, 284.55602pt x 270.27274pt>
+<img/AreniscaPottsville.pdf, id=334, 284.55602pt x 270.27274pt>
 File: img/AreniscaPottsville.pdf Graphic file (type pdf)
 <use img/AreniscaPottsville.pdf>
 Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 44.
@@ -1534,7 +1549,7 @@ Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 44.
 
 pdfTeX warning: pdflatex (file ./img/LimolitaRepetto34_32_232.pdf): PDF inclusi
 on: found PDF version <1.6>, but at most version <1.5> allowed
-<img/LimolitaRepetto34_32_232.pdf, id=332, 284.55602pt x 270.27274pt>
+<img/LimolitaRepetto34_32_232.pdf, id=335, 284.55602pt x 270.27274pt>
 File: img/LimolitaRepetto34_32_232.pdf Graphic file (type pdf)
 <use img/LimolitaRepetto34_32_232.pdf>
 Package pdftex.def Info: img/LimolitaRepetto34_32_232.pdf  used on input line 5
@@ -1549,7 +1564,7 @@ LaTeX Info: Redefining \% on input line 55.
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf): PD
 F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=336, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=339, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_VI_sandySilt_26_27_25.pdf>
 Package pdftex.def Info: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf  used on inp
@@ -1559,7 +1574,7 @@ ut line 65.
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_V_siltySand_12_38_27.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=337, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=340, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_V_siltySand_12_38_27.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_V_siltySand_12_38_27.pdf>
 Package pdftex.def Info: img/Bukit_Timah_V_siltySand_12_38_27.pdf  used on inpu
@@ -1569,7 +1584,7 @@ t line 71.
 
 pdfTeX warning: pdflatex (file ./img/BukitTimahV_siltySand13_35_26.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/BukitTimahV_siltySand13_35_26.pdf, id=338, 284.55602pt x 270.27274pt>
+<img/BukitTimahV_siltySand13_35_26.pdf, id=341, 284.55602pt x 270.27274pt>
 File: img/BukitTimahV_siltySand13_35_26.pdf Graphic file (type pdf)
 <use img/BukitTimahV_siltySand13_35_26.pdf>
 Package pdftex.def Info: img/BukitTimahV_siltySand13_35_26.pdf  used on input l
@@ -1584,7 +1599,7 @@ LaTeX Info: Redefining \% on input line 81.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIII_siltySand225_50_28.pdf): PDF 
 inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIII_siltySand225_50_28.pdf, id=396, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIII_siltySand225_50_28.pdf, id=400, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIII_siltySand225_50_28.pdf Graphic file (type pdf)
 <use img/Fm_JurongIII_siltySand225_50_28.pdf>
 Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
@@ -1594,7 +1609,7 @@ Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand35_45_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand35_45_27.pdf, id=397, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand35_45_27.pdf, id=401, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand35_45_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand35_45_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand35_45_27.pdf  used on input l
@@ -1604,7 +1619,7 @@ ine 97.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand55_51_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand55_51_27.pdf, id=398, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand55_51_27.pdf, id=402, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand55_51_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand55_51_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand55_51_27.pdf  used on input l
@@ -1614,7 +1629,7 @@ ine 102.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand125_42_26.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand125_42_26.pdf, id=399, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand125_42_26.pdf, id=403, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand125_42_26.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand125_42_26.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand125_42_26.pdf  used on input 
@@ -1627,131 +1642,50 @@ LaTeX Info: Redefining \. on input line 112.
 LaTeX Info: Redefining \% on input line 112.
  [40 <./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf> <./img/Bukit_Timah_V_siltySa
 nd_12_38_27.pdf> <./img/BukitTimahV_siltySand13_35_26.pdf>]
-
-LaTeX Warning: Reference `chap:pruebas preliminares' on page 41 undefined on in
-put line 117.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 119.
 LaTeX Info: Redefining \% on input line 119.
  [41 <./img/Fm_JurongIII_siltySand225_50_28.pdf> <./img/Fm_JurongIV_siltySand35
 _45_27.pdf> <./img/Fm_JurongIV_siltySand55_51_27.pdf> <./img/Fm_JurongIV_siltyS
-and125_42_26.pdf>]
+and125_42_26.pdf>]) (kap6/Kap6.tex
 
-LaTeX Warning: Reference `fig:jurong3' on page 42 undefined on input line 120.
+! LaTeX Error: Can be used only in preamble.
 
-
-LaTeX Warning: Reference `fig:jurong4' on page 42 undefined on input line 120.
-
-
-LaTeX Warning: Reference `fig:jurong2' on page 42 undefined on input line 122.
-
-
-LaTeX Warning: Reference `fig:jurong3' on page 42 undefined on input line 122.
-
-)
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
- [42]
-\openout2 = `Kap6.aux'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \usepackage
+               {graphicx}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-No file Kap6.tex.
-\openout2 = `Kap6/Kap6.aux'.
+! LaTeX Error: Can be used only in preamble.
 
-(Kap6/Kap6.tex
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \usepackage
+               {amsmath}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+[42]
 chapter 6.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1 \chapter{Informaci√≥n de campo.}
-                                    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 1.
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.1 \chapter{Informaci√≥n de campo.}
-                                    
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1 \chapter{Informaci√≥n de campo.}
-                                    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...e las poblaciones de La Mansa hacia Quibd√≥
-                                                   en el departamento de Cho...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.7 ...e las poblaciones de La Mansa hacia Quibd√≥
-                                                   en el departamento de Cho...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 7.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.7 ...hacia Quibd√≥ en el departamento de Choc\'o
-                                                  .
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.7 ...hacia Quibd√≥ en el departamento de Choc\'o
-                                                  .
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 
-    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no Ë in font lmex10!
-<img/estacion10.jpg, id=599, 695.59875pt x 378.66469pt>
+<img/estacion10.jpg, id=602, 695.59875pt x 378.66469pt>
 File: img/estacion10.jpg Graphic file (type jpg)
 <use img/estacion10.jpg>
-Package pdftex.def Info: img/estacion10.jpg  used on input line 11.
+Package pdftex.def Info: img/estacion10.jpg  used on input line 14.
 (pdftex.def)             Requested size: 521.69778pt x 283.99782pt.
 
-Overfull \hbox (52.22733pt too wide) in paragraph at lines 11--12
+Overfull \hbox (52.22733pt too wide) in paragraph at lines 14--15
  [][] 
  []
 
@@ -1760,950 +1694,101 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43
 
-
-
-
 ]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.17 ...rido el \'ultimo aproximadamente cinco a√±
-                                                  os antes de la visita de c...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.18 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.18 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<argument> ...ickmuskip {.2777em} Informaci\~A{^3}
-                                                  n de campo.
-l.18 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.18 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.18 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-[44 <./img/estacion10.jpg>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.19 La estaci√≥
-                n primera se realiz√≥ en las coordenadas \(5.8712778, -76.08...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.19 La estaci√≥
-                n primera se realiz√≥ en las coordenadas \(5.8712778, -76.08...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 19.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.19 La estaci√≥n primera se realiz√
-                                    ≥ en las coordenadas \(5.8712778, -76.08...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.19 La estaci√≥n primera se realiz√
-                                    ≥ en las coordenadas \(5.8712778, -76.08...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ... primera se realiz√≥ en las coordenadas \(
-                                                  5.8712778, -76.0848778\), ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no Á in font lmex10!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.19 ...8, -76.0848778\), mientras que la estaci√≥
-                                                  n segunda se realiz√≥ en l...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.19 ...8, -76.0848778\), mientras que la estaci√≥
-                                                  n segunda se realiz√≥ en l...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 19.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.19 ...entras que la estaci√≥n segunda se realiz√
-                                                  ≥ en las las coordenadas \...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.19 ...entras que la estaci√≥n segunda se realiz√
-                                                  ≥ en las las coordenadas \...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ...unda se realiz√≥ en las las coordenadas \(
-                                                  5.8612472,-76.0927833\).
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no Á in font lmex10!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.24 De la estaci√≥
-                   n 1 se obtuvo:
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.24 De la estaci√≥
-                   n 1 se obtuvo:
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.26   \item
-             muestra al interior de cuatro tubos PVC de \(2"\) de di\'ametro...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26   \item
-             muestra al interior de cuatro tubos PVC de \(2"\) de di\'ametro...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26   \item m
-              uestra al interior de cuatro tubos PVC de \(2"\) de di\'ametro...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 26
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27   \item u
-              n bloque de muestra inalterada  de apr\'oximadamente \(40 \tim...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 27
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28   \item u
-              na masa de \(200\,\text{g}\) de muestra alterada.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 28
-[][]
- []
-
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.29 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.29 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.29 \end{itemize}
-                  
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.29 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.29 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.29 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.29 \end{itemize}
-                  
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \end{itemize}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.29 \end{itemize}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.31 De la estaci√≥
-                   n 2 se obtuvo:
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.31 De la estaci√≥
-                   n 2 se obtuvo:
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.33   \item
-             Muestra al interior de 3 tubos PVC de \(2"\) de di\'ametro y ap...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.33   \item
-             Muestra al interior de 3 tubos PVC de \(2"\) de di\'ametro y ap...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33   \item M
-              uestra al interior de 3 tubos PVC de \(2"\) de di\'ametro y ap...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 33
-[][]
- []
-
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.34 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.34 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.34 \end{itemize}
-                  
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.34 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.34 \end{itemize}
-                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.34 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.34 \end{itemize}
-                  
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \end{itemize}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.34 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.34 \end{itemize}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-<img/estacion11.jpg, id=609, 1606.0pt x 1206.5075pt>
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [44 <./img/estacion10.jpg>]
+<img/estacion11.jpg, id=611, 1606.0pt x 1206.5075pt>
 File: img/estacion11.jpg Graphic file (type jpg)
 <use img/estacion11.jpg>
-Package pdftex.def Info: img/estacion11.jpg  used on input line 38.
+Package pdftex.def Info: img/estacion11.jpg  used on input line 41.
 (pdftex.def)             Requested size: 321.19432pt x 241.29723pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
  [45]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.48 ...ndiciones de suelo saturado, con el prop√≥
-                                                  sito de obtener par\'ametr...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.48 ...ndiciones de suelo saturado, con el prop√≥
-                                                  sito de obtener par\'ametr...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+pdfTeX warning: pdflatex (file ./img/boundcheckCampo.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<img/boundcheckCampo.pdf, id=616, 1228.59pt x 794.97pt>
+File: img/boundcheckCampo.pdf Graphic file (type pdf)
+<use img/boundcheckCampo.pdf>
+Package pdftex.def Info: img/boundcheckCampo.pdf  used on input line 59.
+(pdftex.def)             Requested size: 368.57985pt x 238.49284pt.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[46 <./img/estacion11.jpg>]
 
+pdfTeX warning: pdflatex (file ./img/fos3DCampo.pdf): PDF inclusion: found PDF 
+version <1.6>, but at most version <1.5> allowed
+<img/fos3DCampo.pdf, id=620, 1228.59pt x 794.97pt>
+File: img/fos3DCampo.pdf Graphic file (type pdf)
+<use img/fos3DCampo.pdf>
+Package pdftex.def Info: img/fos3DCampo.pdf  used on input line 74.
+(pdftex.def)             Requested size: 368.57985pt x 238.49284pt.
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+[47 <./img/boundcheckCampo.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Command \' invalid in math mode on input line 48.
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [48 <./img/fos3DCampo.pdf>])
+No file TesisMSc.bbl.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+[49] (TesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ (Kap1/Kap1.aux)
+(Kap2/Kap2.aux) (cap3/kap3.aux) (Kap4/Kap4.aux) (Kap5/Kap5.aux))
 
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.48 ...urado, con el prop√≥sito de obtener par\'a
-                                                  metros correspondientes a ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.48 ...urado, con el prop√≥sito de obtener par\'a
-                                                  metros correspondientes a ...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 48.
+LaTeX Warning: There were multiply-defined labels.
 
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.48 ...ondientes a eventos de alta precipitaci\'o
-                                                  n que puedan presentarse e...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
+ ) 
+Here is how much of TeX's memory you used:
+ 11821 strings out of 492970
+ 189918 string characters out of 3127038
+ 375071 words of memory out of 3000000
+ 15317 multiletter control sequences out of 15000+200000
+ 74299 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,15n,66p,9116b,1219s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
+}{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rmtt.en
+c}{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
+.enc}{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mat
+hit.enc}{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
+mathex.enc}{C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/
+lm-rmsc.enc}<C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/lm/lmbx10.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmbx12.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/lm/lmcsc10.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmex10.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmmi12.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmmi8.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/lm/lmr10.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/lm/lmr12.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/pipe/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/pipe/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Users/pipe/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/pipe/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/pipe/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/pipe/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/pipe/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Users/pipe/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Users/pipe/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on TesisMSc.pdf (59 pages, 6721466 bytes).
+PDF statistics:
+ 816 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.48 ...ondientes a eventos de alta precipitaci\'o
-                                                  n que puedan presentarse e...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 49.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.49 Los par\'a
-               metros de resistencia obtenidos son √°ngulo de fricci√≥n inte...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.49 Los par\'a
-               metros de resistencia obtenidos son √°ngulo de fricci√≥n inte...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 49.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.49 ...ar\'ametros de resistencia obtenidos son √
-                                                  °ngulo de fricci√≥n intern...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.49 ...ar\'ametros de resistencia obtenidos son √
-                                                  °ngulo de fricci√≥n intern...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 49.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 49.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.49 ...sistencia obtenidos son √°ngulo de fricci√
-                                                  ≥n interna saturada de \(4...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.49 ...sistencia obtenidos son √°ngulo de fricci√
-                                                  ≥n interna saturada de \(4...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 ...°ngulo de fricci√≥n interna saturada de \(
-                                                  40\,^\circ\) y cohesi\'on ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There 

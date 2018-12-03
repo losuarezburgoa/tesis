@@ -25,4 +25,10 @@
 \contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{39}
 \contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{40}
 \contentsline {subsection}{\numberline {5.1.5}Interpretacion}{42}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\~A\-a}{42}
+\contentsline {chapter}{\numberline {6}Informaci\'n de campo.}{43}
+\contentsline {section}{\numberline {6.1}Recorrido de campo}{43}
+\contentsline {section}{\numberline {6.2}Ensayos de laboratorio.}{46}
+\contentsline {paragraph}{\nonumberline Scoops3D.}{46}
+\contentsline {section}{\numberline {6.3}Conclusiones}{49}
+\contentsline {section}{\numberline {6.4}Recomendaciones}{49}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{49}
