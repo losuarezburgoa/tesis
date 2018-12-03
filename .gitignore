@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+*.aux
 TesisMSc.dvi
 TesisMSc.synctex(busy)
 julio2018/
