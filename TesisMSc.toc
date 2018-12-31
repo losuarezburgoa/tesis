@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {4.1}Condiciones atmosf\'{e}ricas.}{25}
 \contentsline {section}{\numberline {4.2}Geolog\'ia}{25}
 \contentsline {section}{\numberline {4.3}Geomorfolog\'{i}a.}{27}
-\contentsline {chapter}{\numberline {5}An\'alisi tridimensinal en Scoops3D.}{29}
+\contentsline {chapter}{\numberline {5}An\'alisis tridimensinal en Scoops3D.}{29}
 \contentsline {section}{\numberline {5.1}Prueba piloto}{29}
 \contentsline {subsection}{\numberline {5.1.1}DEM usado en pruebas preliminares}{31}
 \contentsline {subsection}{\numberline {5.1.2}Pruebas Ejecutadas.}{33}
@@ -25,10 +25,10 @@
 \contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Bukit Timah.}{39}
 \contentsline {subsubsection}{\nonumberline Par\'ametros de prueba: Fm. Jurong.}{40}
 \contentsline {subsection}{\numberline {5.1.5}Interpretacion}{42}
-\contentsline {chapter}{\numberline {6}Informaci\'n de campo.}{43}
+\contentsline {chapter}{\numberline {6}Informaci\'on de campo.}{43}
 \contentsline {section}{\numberline {6.1}Recorrido de campo}{43}
 \contentsline {section}{\numberline {6.2}Ensayos de laboratorio.}{46}
-\contentsline {paragraph}{\nonumberline Scoops3D.}{46}
-\contentsline {section}{\numberline {6.3}Conclusiones}{49}
-\contentsline {section}{\numberline {6.4}Recomendaciones}{49}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{49}
+\contentsline {paragraph}{\nonumberline Scoops3D.}{47}
+\contentsline {section}{\numberline {6.3}Conclusiones}{51}
+\contentsline {section}{\numberline {6.4}Recomendaciones}{51}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{52}
