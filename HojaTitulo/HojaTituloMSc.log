@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  30 DEC 2018 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  18 FEB 2019 21:27
 entering extended mode
 **./HojaTituloMSc.tex
 (HojaTituloMSc.tex
@@ -1210,52 +1210,12 @@ or  <return>  to continue without it.
 [2
 
 ]
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \thispagestyle{empty} \textbf{}\normalsize
-                                               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 42--45
-[] 
- []
-
-
-Overfull \hbox (62.58992pt too wide) in paragraph at lines 42--45
-\OT1/cmr/bx/n/10 (Dedicatoria
- []
-
-
-Overfull \hbox (5.74997pt too wide) in paragraph at lines 42--45
-\OT1/cmr/bx/n/10 o
- []
-
-
-Overfull \hbox (12.77771pt too wide) in paragraph at lines 42--45
-\OT1/cmr/bx/n/10 un
- []
-
-
-Overfull \hbox (28.11095pt too wide) in paragraph at lines 42--45
-\OT1/cmr/bx/n/10 lema) 
- []
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 46--46
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--43
 [] 
  []
 
 ! Undefined control sequence.
-l.49         \small
+l.46         \small
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1592,36 +1552,36 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 58.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 58.
+(Font)              <5> on input line 55.
 
-Overfull \hbox (227.62204pt too wide) in paragraph at lines 47--59
+Overfull \hbox (227.62204pt too wide) in paragraph at lines 44--56
  []$
  []
 
@@ -1633,7 +1593,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \newpage
+l.58 \newpage
              {\pagestyle{empty}\cleardoublepage}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1650,7 +1610,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \thispagestyle{empty} \textbf{}\normalsize
+l.61 \thispagestyle{empty} \textbf{}\normalsize
                                                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1663,7 +1623,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 \begin{figure}
+l.64 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1673,7 +1633,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.69 \includegraphics
+l.66 \includegraphics
                      [trim={0 0.1cm 2.2cm 0},clip,scale=0.8]{img/dedicatoria...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1753,14 +1713,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 \end{figure}
+l.67 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 64--71
+Overfull \hbox (20.0pt too wide) in paragraph at lines 61--68
 [] 
  []
 
@@ -1772,7 +1732,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \newpage
+l.69 \newpage
              {\pagestyle{empty}\cleardoublepage}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1784,7 +1744,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <write> ...dima {\hfil }Agradecimientos}{\thepage 
                                                   }}
-l.72 \newpage
+l.69 \newpage
              {\pagestyle{empty}\cleardoublepage}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1798,7 +1758,7 @@ ntos}{}}
 ! Undefined control sequence.
 <recently read> \LARGE 
                        
-l.75 \textbf{\LARGE Resumen}
+l.72 \textbf{\LARGE Resumen}
                             
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1820,5 +1780,5 @@ Here is how much of TeX's memory you used:
  3997 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 20i,4n,18p,281b,161s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 20i,4n,18p,281b,163s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

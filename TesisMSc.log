@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  31 DEC 2018 00:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  10 MAR 2019 00:22
 entering extended mode
 **./TesisMSc.tex
 (TesisMSc.tex
@@ -836,144 +836,62 @@ File: HojaTitulo/EscudoUN-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: HojaTitulo/EscudoUN-eps-converted-to.pdf  used on inpu
 t line 6.
 (pdftex.def)             Requested size: 202.757pt x 83.31104pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 
 {C:/Users/pipe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./HojaTitulo
-/EscudoUN-eps-converted-to.pdf>] [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3
+/EscudoUN-eps-converted-to.pdf>] [2
 
 
 ]
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
-
- []
-
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 58.
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 58.
-
-
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 58.
-
-
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 58.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 58.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 58.
-LaTeX Font Info:    Try loading font information for U+msa on input line 58.
-
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 58.
-
-("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5
-
-
-]
-[6]
-<img/dedicatoria/dedicatoria.pdf, id=28, 598.15468pt x 846.0408pt>
+[3]
+<img/dedicatoria/dedicatoria.pdf, id=18, 598.15468pt x 846.0408pt>
 File: img/dedicatoria/dedicatoria.pdf Graphic file (type pdf)
 <use img/dedicatoria/dedicatoria.pdf>
-Package pdftex.def Info: img/dedicatoria/dedicatoria.pdf  used on input line 69
+Package pdftex.def Info: img/dedicatoria/dedicatoria.pdf  used on input line 47
 .
 (pdftex.def)             Requested size: 428.44756pt x 674.55724pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--70
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--70
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--70
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--70
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7
-
-
-]
+ [4]
 Overfull \vbox (20.14386pt too high) has occurred while \output is active []
 
 
-[8 <./img/dedicatoria/dedicatoria.pdf>])
-Underfull \hbox (badness 10000) in paragraph at lines 75--34
+[5 <./img/dedicatoria/dedicatoria.pdf>] [6
+
+
+])
+Underfull \hbox (badness 10000) in paragraph at lines 56--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--34
+Underfull \hbox (badness 10000) in paragraph at lines 56--34
 
  []
 
-[9
-
-
-]
+[7]
 LaTeX Font Info:    Try loading font information for OT1+lmss on input line 44.
 
  ("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
@@ -1000,6 +918,36 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 Package tocbasic Info: Using my definition of `\numberline' on input line 7.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
+
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
+
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+("C:\Users\pipe\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
@@ -1014,7 +962,8 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 18.
 Package tocbasic Info: Using my definition of `\numberline' on input line 19.
 Package tocbasic Info: Using my definition of `\numberline' on input line 20.
 Package tocbasic Info: Using my definition of `\numberline' on input line 21.
-[10
+
+[8
 
 
 ]
@@ -1110,7 +1059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<img/INTRO.JPG, id=74, 470.50781pt x 328.22626pt>
+<img/INTRO.JPG, id=68, 470.50781pt x 328.22626pt>
 File: img/INTRO.JPG Graphic file (type jpg)
 <use img/INTRO.JPG>
 Package pdftex.def Info: img/INTRO.JPG  used on input line 13.
@@ -1141,7 +1090,7 @@ LaTeX Info: Redefining \% on input line 24.
 [9
 
 ]
-<img/complete_column.JPG, id=88, 447.92343pt x 404.26031pt>
+<img/complete_column.JPG, id=81, 447.92343pt x 404.26031pt>
 File: img/complete_column.JPG Graphic file (type jpg)
 <use img/complete_column.JPG>
 Package pdftex.def Info: img/complete_column.JPG  used on input line 36.
@@ -1176,7 +1125,7 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 [14]) (cap3/interfaz.tex
-<img/main_window.PNG, id=108, 548.0475pt x 548.0475pt>
+<img/main_window.PNG, id=102, 548.0475pt x 548.0475pt>
 File: img/main_window.PNG Graphic file (type png)
 <use img/main_window.PNG>
 Package pdftex.def Info: img/main_window.PNG  used on input line 5.
@@ -1196,7 +1145,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
  [15]
-<img/units_winow.PNG, id=114, 281.55188pt x 201.75375pt>
+<img/units_winow.PNG, id=107, 281.55188pt x 201.75375pt>
 File: img/units_winow.PNG Graphic file (type png)
 <use img/units_winow.PNG>
 Package pdftex.def Info: img/units_winow.PNG  used on input line 14.
@@ -1207,7 +1156,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
  [16 <./img/main_window.PNG>]
-<img/model.JPG, id=119, 627.09282pt x 367.3725pt>
+<img/model.JPG, id=112, 627.09282pt x 367.3725pt>
 File: img/model.JPG Graphic file (type jpg)
 <use img/model.JPG>
 Package pdftex.def Info: img/model.JPG  used on input line 29.
@@ -1226,7 +1175,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--46
 
  []
 
-<img/material_properties_window.PNG, id=120, 319.1925pt x 131.74219pt>
+<img/material_properties_window.PNG, id=113, 319.1925pt x 131.74219pt>
 File: img/material_properties_window.PNG Graphic file (type png)
 <use img/material_properties_window.PNG>
 Package pdftex.def Info: img/material_properties_window.PNG  used on input line
@@ -1239,7 +1188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--58
 
  []
 
-<img/piezo.JPG, id=125, 649.67719pt x 389.95688pt>
+<img/piezo.JPG, id=119, 649.67719pt x 389.95688pt>
 File: img/piezo.JPG Graphic file (type jpg)
 <use img/piezo.JPG>
 Package pdftex.def Info: img/piezo.JPG  used on input line 62.
@@ -1250,7 +1199,7 @@ Underfull \vbox (badness 2744) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 66.
 LaTeX Info: Redefining \% on input line 66.
  [18 <./img/model.JPG> <./img/material_properties_window.PNG>]
-<img/search_config_window.PNG, id=130, 234.8775pt x 519.44063pt>
+<img/search_config_window.PNG, id=124, 234.8775pt x 519.44063pt>
 File: img/search_config_window.PNG Graphic file (type png)
 <use img/search_config_window.PNG>
 Package pdftex.def Info: img/search_config_window.PNG  used on input line 86.
@@ -1292,7 +1241,7 @@ chapter 4.
 
 pdfTeX warning: pdflatex (file ./img/pendientes.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/pendientes.pdf, id=145, 284.55602pt x 270.27274pt>
+<img/pendientes.pdf, id=138, 284.55602pt x 270.27274pt>
 File: img/pendientes.pdf Graphic file (type pdf)
 <use img/pendientes.pdf>
 Package pdftex.def Info: img/pendientes.pdf  used on input line 12.
@@ -1328,7 +1277,7 @@ LaTeX Info: Redefining \% on input line 16.
 
 pdfTeX warning: pdflatex (file ./img/geologia.pdf): PDF inclusion: found PDF ve
 rsion <1.6>, but at most version <1.5> allowed
-<img/geologia.pdf, id=188, 142.29224pt x 142.29224pt>
+<img/geologia.pdf, id=182, 142.29224pt x 142.29224pt>
 File: img/geologia.pdf Graphic file (type pdf)
 <use img/geologia.pdf>
 Package pdftex.def Info: img/geologia.pdf  used on input line 21.
@@ -1348,7 +1297,7 @@ LaTeX Info: Redefining \% on input line 3.
 
 pdfTeX warning: pdflatex (file ./img/geomorfo.pdf): PDF inclusion: found PDF ve
 rsion <1.6>, but at most version <1.5> allowed
-<img/geomorfo.pdf, id=226, 142.29224pt x 142.29224pt>
+<img/geomorfo.pdf, id=219, 142.29224pt x 142.29224pt>
 File: img/geomorfo.pdf Graphic file (type pdf)
 <use img/geomorfo.pdf>
 Package pdftex.def Info: img/geomorfo.pdf  used on input line 11.
@@ -1371,7 +1320,7 @@ LaTeX Info: Redefining \% on input line 60.
 
 pdfTeX warning: pdflatex (file ./img/dem.pdf): PDF inclusion: found PDF version
  <1.6>, but at most version <1.5> allowed
-<img/dem.pdf, id=270, 142.29224pt x 142.29224pt>
+<img/dem.pdf, id=264, 142.29224pt x 142.29224pt>
 File: img/dem.pdf Graphic file (type pdf)
 <use img/dem.pdf>
 Package pdftex.def Info: img/dem.pdf  used on input line 5.
@@ -1395,29 +1344,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<img/search_setup.PNG, id=296, 431.36156pt x 557.83406pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [33]
+<img/search_setup.PNG, id=293, 431.36156pt x 557.83406pt>
 File: img/search_setup.PNG Graphic file (type png)
 <use img/search_setup.PNG>
 Package pdftex.def Info: img/search_setup.PNG  used on input line 7.
 (pdftex.def)             Requested size: 258.81892pt x 334.703pt.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
-[33]
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+
+[34 <./img/search_setup.PNG>]
 
 pdfTeX warning: pdflatex (file ./img/boundcheck.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<img/boundcheck.pdf, id=301, 284.55602pt x 270.27274pt>
+<img/boundcheck.pdf, id=298, 284.55602pt x 270.27274pt>
 File: img/boundcheck.pdf Graphic file (type pdf)
 <use img/boundcheck.pdf>
 Package pdftex.def Info: img/boundcheck.pdf  used on input line 24.
 (pdftex.def)             Requested size: 284.55531pt x 270.27206pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
- [34 <./img/search_setup.PNG>]
-<img/symbology.PNG, id=306, 54.9553pt x 131.74219pt>
+<img/symbology.PNG, id=299, 54.9553pt x 131.74219pt>
 File: img/symbology.PNG Graphic file (type png)
 <use img/symbology.PNG>
 Package pdftex.def Info: img/symbology.PNG  used on input line 35.
@@ -1451,13 +1401,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [35 <./img/boundcheck.pdf> <./img/symbology.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 \OT1/lmr/m/n/12 sus-cep-ti-bi-li-dad).
  []
 
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-[35 <./img/boundcheck.pdf> <./img/symbology.PNG>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 36.
@@ -1554,7 +1507,7 @@ Overfull \hbox (12.16577pt too wide) in paragraph at lines 34--34
 
 pdfTeX warning: pdflatex (file ./img/AreniscaPottsville.pdf): PDF inclusion: fo
 und PDF version <1.6>, but at most version <1.5> allowed
-<img/AreniscaPottsville.pdf, id=344, 284.55602pt x 270.27274pt>
+<img/AreniscaPottsville.pdf, id=338, 284.55602pt x 270.27274pt>
 File: img/AreniscaPottsville.pdf Graphic file (type pdf)
 <use img/AreniscaPottsville.pdf>
 Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 44.
@@ -1563,7 +1516,7 @@ Package pdftex.def Info: img/AreniscaPottsville.pdf  used on input line 44.
 
 pdfTeX warning: pdflatex (file ./img/LimolitaRepetto34_32_232.pdf): PDF inclusi
 on: found PDF version <1.6>, but at most version <1.5> allowed
-<img/LimolitaRepetto34_32_232.pdf, id=345, 284.55602pt x 270.27274pt>
+<img/LimolitaRepetto34_32_232.pdf, id=339, 284.55602pt x 270.27274pt>
 File: img/LimolitaRepetto34_32_232.pdf Graphic file (type pdf)
 <use img/LimolitaRepetto34_32_232.pdf>
 Package pdftex.def Info: img/LimolitaRepetto34_32_232.pdf  used on input line 5
@@ -1578,7 +1531,7 @@ LaTeX Info: Redefining \% on input line 55.
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_VI_sandySilt_26_27_25.pdf): PD
 F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=349, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_VI_sandySilt_26_27_25.pdf, id=343, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_VI_sandySilt_26_27_25.pdf>
 Package pdftex.def Info: img/Bukit_Timah_VI_sandySilt_26_27_25.pdf  used on inp
@@ -1588,7 +1541,7 @@ ut line 65.
 
 pdfTeX warning: pdflatex (file ./img/Bukit_Timah_V_siltySand_12_38_27.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=350, 284.55602pt x 270.27274pt>
+<img/Bukit_Timah_V_siltySand_12_38_27.pdf, id=344, 284.55602pt x 270.27274pt>
 File: img/Bukit_Timah_V_siltySand_12_38_27.pdf Graphic file (type pdf)
 <use img/Bukit_Timah_V_siltySand_12_38_27.pdf>
 Package pdftex.def Info: img/Bukit_Timah_V_siltySand_12_38_27.pdf  used on inpu
@@ -1598,7 +1551,7 @@ t line 71.
 
 pdfTeX warning: pdflatex (file ./img/BukitTimahV_siltySand13_35_26.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/BukitTimahV_siltySand13_35_26.pdf, id=351, 284.55602pt x 270.27274pt>
+<img/BukitTimahV_siltySand13_35_26.pdf, id=345, 284.55602pt x 270.27274pt>
 File: img/BukitTimahV_siltySand13_35_26.pdf Graphic file (type pdf)
 <use img/BukitTimahV_siltySand13_35_26.pdf>
 Package pdftex.def Info: img/BukitTimahV_siltySand13_35_26.pdf  used on input l
@@ -1613,7 +1566,7 @@ LaTeX Info: Redefining \% on input line 81.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIII_siltySand225_50_28.pdf): PDF 
 inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIII_siltySand225_50_28.pdf, id=410, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIII_siltySand225_50_28.pdf, id=403, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIII_siltySand225_50_28.pdf Graphic file (type pdf)
 <use img/Fm_JurongIII_siltySand225_50_28.pdf>
 Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
@@ -1623,7 +1576,7 @@ Package pdftex.def Info: img/Fm_JurongIII_siltySand225_50_28.pdf  used on input
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand35_45_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand35_45_27.pdf, id=411, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand35_45_27.pdf, id=404, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand35_45_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand35_45_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand35_45_27.pdf  used on input l
@@ -1633,7 +1586,7 @@ ine 97.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand55_51_27.pdf): PDF in
 clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand55_51_27.pdf, id=412, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand55_51_27.pdf, id=405, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand55_51_27.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand55_51_27.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand55_51_27.pdf  used on input l
@@ -1643,7 +1596,7 @@ ine 102.
 
 pdfTeX warning: pdflatex (file ./img/Fm_JurongIV_siltySand125_42_26.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/Fm_JurongIV_siltySand125_42_26.pdf, id=413, 284.55602pt x 270.27274pt>
+<img/Fm_JurongIV_siltySand125_42_26.pdf, id=406, 284.55602pt x 270.27274pt>
 File: img/Fm_JurongIV_siltySand125_42_26.pdf Graphic file (type pdf)
 <use img/Fm_JurongIV_siltySand125_42_26.pdf>
 Package pdftex.def Info: img/Fm_JurongIV_siltySand125_42_26.pdf  used on input 
@@ -1667,7 +1620,7 @@ LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
  [42]
 chapter 6.
-<img/estacion10.jpg, id=612, 695.59875pt x 378.66469pt>
+<img/estacion10.jpg, id=606, 695.59875pt x 378.66469pt>
 File: img/estacion10.jpg Graphic file (type jpg)
 <use img/estacion10.jpg>
 Package pdftex.def Info: img/estacion10.jpg  used on input line 13.
@@ -1688,7 +1641,7 @@ Underfull \vbox (badness 1552) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
  [44 <./img/estacion10.jpg>]
-<img/estacion11.jpg, id=621, 1606.0pt x 1206.5075pt>
+<img/estacion11.jpg, id=615, 1606.0pt x 1206.5075pt>
 File: img/estacion11.jpg Graphic file (type jpg)
 <use img/estacion11.jpg>
 Package pdftex.def Info: img/estacion11.jpg  used on input line 40.
@@ -1702,7 +1655,7 @@ LaTeX Info: Redefining \% on input line 44.
 
 pdfTeX warning: pdflatex (file ./img/line.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<img/line.pdf, id=626, 597.55246pt x 421.09319pt>
+<img/line.pdf, id=619, 597.55246pt x 421.09319pt>
 File: img/line.pdf Graphic file (type pdf)
 <use img/line.pdf>
 Package pdftex.def Info: img/line.pdf  used on input line 59.
@@ -1721,7 +1674,7 @@ LaTeX Info: Redefining \% on input line 62.
 
 pdfTeX warning: pdflatex (file ./img/boundcheckCampo.pdf): PDF inclusion: found
  PDF version <1.6>, but at most version <1.5> allowed
-<img/boundcheckCampo.pdf, id=631, 1228.59pt x 794.97pt>
+<img/boundcheckCampo.pdf, id=624, 1228.59pt x 794.97pt>
 File: img/boundcheckCampo.pdf Graphic file (type pdf)
 <use img/boundcheckCampo.pdf>
 Package pdftex.def Info: img/boundcheckCampo.pdf  used on input line 87.
@@ -1732,7 +1685,7 @@ LaTeX Info: Redefining \% on input line 91.
 
 pdfTeX warning: pdflatex (file ./img/fos3DCampo_coarse.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<img/fos3DCampo_coarse.pdf, id=645, 1228.59pt x 794.97pt>
+<img/fos3DCampo_coarse.pdf, id=639, 1228.59pt x 794.97pt>
 File: img/fos3DCampo_coarse.pdf Graphic file (type pdf)
 <use img/fos3DCampo_coarse.pdf>
 Package pdftex.def Info: img/fos3DCampo_coarse.pdf  used on input line 102.
@@ -1741,17 +1694,12 @@ LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
 [48 <./img/boundcheckCampo.pdf>]
 
-LaTeX Warning: Reference `fig:fos3dout_coarse' on page 49 undefined on input li
-ne 107.
-
-
-
-pdfTeX warning: pdflatex (file ./img/fos3DCampo.pdf): PDF inclusion: found PDF 
-version <1.6>, but at most version <1.5> allowed
-<img/fos3DCampo.pdf, id=710, 1228.59pt x 794.97pt>
-File: img/fos3DCampo.pdf Graphic file (type pdf)
-<use img/fos3DCampo.pdf>
-Package pdftex.def Info: img/fos3DCampo.pdf  used on input line 114.
+pdfTeX warning: pdflatex (file ./img/fos3DCampo2.pdf): PDF inclusion: found PDF
+ version <1.6>, but at most version <1.5> allowed
+<img/fos3DCampo2.pdf, id=704, 1228.59pt x 794.97pt>
+File: img/fos3DCampo2.pdf Graphic file (type pdf)
+<use img/fos3DCampo2.pdf>
+Package pdftex.def Info: img/fos3DCampo2.pdf  used on input line 114.
 (pdftex.def)             Requested size: 368.57985pt x 238.49284pt.
 
 Underfull \vbox (badness 6592) has occurred while \output is active []
@@ -1763,7 +1711,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 132.
 LaTeX Info: Redefining \% on input line 132.
- [50 <./img/fos3DCampo.pdf>]
+ [50 <./img/fos3DCampo2.pdf>]
 Underfull \vbox (badness 1735) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 150.
@@ -1781,16 +1729,13 @@ LaTeX Info: Redefining \% on input line 9.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  11846 strings out of 492970
- 190511 string characters out of 3127038
- 375095 words of memory out of 3000000
+ 190516 string characters out of 3127038
+ 375106 words of memory out of 3000000
  15339 multiletter control sequences out of 15000+200000
  74299 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1820,9 +1765,9 @@ Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/pipe/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Users/pipe/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Users/pipe/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on TesisMSc.pdf (62 pages, 8416706 bytes).
+Output written on TesisMSc.pdf (60 pages, 7623843 bytes).
 PDF statistics:
- 910 PDF objects out of 1000 (max. 8388607)
+ 903 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
