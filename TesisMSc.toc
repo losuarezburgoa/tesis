@@ -29,6 +29,6 @@
 \contentsline {section}{\numberline {6.1}Recorrido de campo}{43}
 \contentsline {section}{\numberline {6.2}Ensayos de laboratorio.}{46}
 \contentsline {paragraph}{\nonumberline Scoops3D.}{47}
-\contentsline {section}{\numberline {6.3}Conclusiones}{51}
-\contentsline {section}{\numberline {6.4}Recomendaciones}{51}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{52}
+\contentsline {section}{\numberline {6.3}Conclusiones}{50}
+\contentsline {section}{\numberline {6.4}Recomendaciones}{50}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{51}

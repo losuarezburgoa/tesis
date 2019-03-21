@@ -104,19 +104,8 @@ Para aumentar la cobertura ser\'ia necesario realizar pruebas en equipos de comp
 \label{fig:fos3dout_coarse}
 \end{figure}
 
-Inicialmente se realiz\'o una primera corrida de Scoops3D manteniendo la configuraci\'on de caja de b\'usqueda usada en las pruebas preliminares. Sin embargo, se encontr\'o que debido a la baja resoluci\'on, se presentaron extensas zonas del DEM que estaban excluidas del analis\'is, lo anterior porque algunas esferas de falla intersectaban el DEM en mas de 10 partes,  produciendo un mapa de distribuciones bastante imcompleto \ref{fig:fos3dout_coarse}. Aunque dicho comportamiento sea de esperarse durante la ejecici\'on de Scoops3D, una alta ocurrencia de sectores omitidos indica que la calidad del DEM usado no es \'optima.
 
-Para reducir dicho efecto, se deshabilito la busqueda "de grueso a fino" (coarse to fine). Lo cual aumenta considerablemente el tiempo de ejecici\'on requerido por Scoops3D, debido a que no se realizan analisis con esferas de gran tamano, las cuales generaban una mayor cantidad de intersecciones, y por tal motivo estaban siendo omitidas.
-Una vez realizado este cambio se pudo obtener el mapa de distribuciones ilustrado en la figura \ref{fig:fos3dout}.
-
-\begin{figure}[H]
-\centering
-\includegraphics[scale=0.3]{img/fos3DCampo2.pdf}
-\caption{Mapa de distribuci\'on de factores de seguridad en la zona de trabajo seg\'un el an\'alisis realizado con scoops 3D y muestras de la zona. Fuente: Elaboraci\'on propia.}
-\label{fig:fos3dout}
-\end{figure}
-
-Como resultado del an\'alisis probabil\'istico por medio del m\'etodo Bishop utilizando las valores de resistencia obtenidos en los an\'alisis de laboratorio realizadas a las muestras recolectadas del \'area de trabajo se obtiene el mapa de \emph{distribuciones de factores de seguridad} presentado en la figura \ref{fig:fos3dout}.
+Como resultado del an\'alisis probabil\'istico por medio del m\'etodo Bishop utilizando las valores de resistencia obtenidos en los an\'alisis de laboratorio realizadas a las muestras recolectadas del \'area de trabajo se obtiene el mapa de \emph{distribuciones de factores de seguridad} presentado en la figura \ref{fig:fos3dout_coarse}.
 Se analizaron un total de \(285\,744\) superficies de falla.
 
 Como es de esperarse, los valores de factor de seguridad m\'as bajos se presentan hacia el suroccidente de la zona de trabajo, donde  son abundantes laderas con pendientes  largas y pronunciadas. All\'i los valores de factor de seguridad obtenidos de alcanzan \(1.46\) en cercan\'ias al Batolito Farallones y su aureola de contacto. 
@@ -148,5 +137,4 @@ Seleccionar siempre la opci\'on de Bishop dentro del menu de selecci\'on de an\'
 
 Siempre realizar corridas de prueba en Scoops3D con par\'ametros de resistencia estimados, para evaluar la optima configuraci\'on de Scoops3D, espec\'ificamente para verificar que la caja de b\'usqueda no sea una limitante al momento de evaluar los m\'etodos bishop y fellenius al DEM usado.
 
-Al utitlizar modelos de elevaci\'on digital de alta resoluci\'on ($5m^{2}$ o inferior tama\~no de pixel) es aconsejable usar servicios de computaci\'on en la nube como Google Cloud Platform (GCP) o Amazon Web Services (AWS) y la l\'inea de comando (CLI) en Python. Esto para acelerar los tiempos de ejecuci\'on
-de Scoops3D
+Al utitlizar modelos de elevaci\'on digital de alta resoluci\'on ($5m^{2}$ o inferior tama\~no de pixel) es aconsejable usar servicios de computaci\'on en la nube como Google Cloud Platform (GCP) o Amazon Web Services (AWS) y la l\'inea de comando (CLI) en Python. Esto para acelerar los tiempos de ejecuci\'on de Scoops3D
