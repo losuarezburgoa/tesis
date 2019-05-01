@@ -47,10 +47,32 @@ De la estaci\'on 2 se obtuvo:
 Las muestras recolectadas fueron analizadas en el laboratorio de suelos de a Universidad Nacional de Colombia, sede Medell\'in.
 Como resultado de los ensayos se pudo determinar una humedad natural del \(21\,\%\).
 La gravedad espec\'ifica de los s\'olidos, seg\'un el procedimiento descrito en la norma ASTM C-127 fue de \(2.53\).
-Con estos valores se procedi\'o a realizar los ensayos de corte directo seg\'un la norma ASTM D-380. Se decidi\'o realizar los ensayos bajo condiciones de suelo saturado, con el prop\'osito de obtener par\'ametros correspondientes a eventos de alta precipitaci\'on que puedan presentarse en la zona de trabajo.
+Con estos valores se procedi\'o a realizar los ensayos de corte directo seg\'un la norma ASTM D-380. Se decidi\'o realizar los ensayos bajo condiciones de suelo saturado, es decir, habiendo sumergido totalmente la muestra de suelo durante un periodo de 24 horas, lo anterior con el prop\'osito de obtener par\'ametros correspondientes a eventos de alta precipitaci\'on que puedan presentarse en la zona de trabajo.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{img/fallada.jpg}
+\caption{Muestra de la estaci\'on 1 en su estado posterior al ensayo de corte directo.  Desplazamiento total 6.6 mm}
+\label{fig:toma-bloque}
+\end{figure}
+
+
+\begin{table}[H]
+\centering
+\caption{Caracter\'isticas f\'isicas de las muestras sometidas al ensayo de corte directo. }
+\begin{tabular}{l|l|l|l|l|}
+\cline{2-5}
+                                & Altura Inicial $\left( mm \right) $ &  Di\'ametro $\left( mm \right) $ & Peso inicial $\left( g \right) $ & Tension total$\left( kPa \right) $ \\ \hline
+\multicolumn{1}{|l|}{Muestra 1} & 25.28          & 50.09    & 80.8             & 59.7               \\ \hline
+\multicolumn{1}{|l|}{Muestra 2} & 25.38          & 50.09    & 90.83            & 119.4              \\ \hline
+\multicolumn{1}{|l|}{Muestra 3} & 25.38          & 50.09    & 87.44            & 199.1              \\ \hline
+\end{tabular}
+\end{table}
+
+
 
 Los par\'ametros de resistencia obtenidos son \'angulo de fricci\'on interna saturada de \(40\,^\circ\) y cohesi\'on de \(29\,\text{kPa}\). Las hojas de c\'alculo de estos ensayos se adjuntan como anexos al presente trabajo.
-En la tabla \ref{table:line}  se exponen los valores de resistencia al corte obtenido por cada muestra  y la carga aplicada. Y en la figura \ref{fig:line} se grafican los puntos maximos de resistencia de cada muestra
+En la tabla \ref{table:line}  se exponen los valores de resistencia al corte obtenido por cada muestra  y la carga aplicada. Y en la figura \ref{fig:line} se grafican los puntos m\'aximos de resistencia de cada muestra
 
 
 
@@ -75,8 +97,23 @@ Cohesi\'on $\left( kPa \right) $                                                
 \label{table:line}
 \end{table}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{img/diagramatd.JPG}
+\caption{Diagrama tensi\'on deformaci\'on para las muestras de la estaci\'on 1. Se puede observar como se presenta un comportamiento pl\'astico al haber alcanzado un dial de deformaci\'on que se encuentra entre un   10\% y un 14\% del di\'ametro de la muestra.}
+\label{fig:toma-bloque}
+\end{figure}
 
 
+\paragraph{Estaci\'on 2.}
+Las muestras de los tuvos PCV recolectadas en la estaci\'on 2 recibieron la misma preparacion realizada sobre las muestras de la estaci\'on 1. Sin embargo al momento de realizar el ensayo de corte directo, se produjo una deformaci\'on inusual en este ensayo, provocando que un lado de la muestra cediera y se comprimiera m\'as que otro. Dicha deformaci\'on ocurr\'ia a lo largo de la ejecuci\'on del ensayo produciendo una deformaci\'on vertical progresiva a medida que se presentaba la deformaci\'on lateral producida por el esfuerzo cortante, invalidando los datos obtenidos. El procedimiento se reviso meticulosamente con ayuda del personal de laboratorio, obteniendo el mismo resultado en repetidas ocaciones. Motivo por el cual no fue posible obtener una envolvente para las muestras pertenecientes a dicha estaci\'on.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{img/est2.jpg}
+\caption{Muestra recolectada de la estaci\'on 2 posterior al ensayo de corte directo. N\'otese la deformaci\'on anormal en la parte izquierda del fragmento superior de la muestra, el cual presenta un grado de compresi\'on mayor a su lado opuesto.}
+\label{fig:toma-bloque}
+\end{figure}
 
 
 \paragraph{Scoops3D.}
@@ -89,9 +126,9 @@ Tomando los resultados de laboratorio expuestos anteriormente se procedi\'o a in
 \label{fig:dem usado}
 \end{figure}
 
-Se puede apreciar en el archivo de salida \textsf{boundcheck} que la caja de busqueda propuesta en las pruebas preliminares es aplicable los datos obtenidos de las muestras recolectadas en campo. Dicho comportamento era esperado debido a la abundancia de pendientes pronunciadas en esta zona del municipio de Ciudad Bolivar.
+Se puede apreciar en el archivo de salida \textsf{boundcheck} que la caja de b\'usqueda propuesta en las pruebas preliminares es aplicable los datos obtenidos de las muestras recolectadas en campo. Dicho comportamento era esperado debido a la abundancia de pendientes pronunciadas en esta zona del municipio de Ciudad Bolivar.
 
-Los p\'ixeles marcados con color azul en el sector suroccidental de la zona de trabajo indican que la extension de la caja de busqueda hacia el extremo sur fue una limitante para aplicar el m\'etodo bishop (centro de la superficie de falla por fuera de la caja de busqueda, en direccion sur) lo mismo ocurre con los pixeles marcados de color rojo hacia el extremo norte de la zona de trabajo (centro de la superficie de falla por fuera de la caja de busqueda, en direccion norte)
+Los p\'ixeles marcados con color azul en el sector suroccidental de la zona de trabajo indican que la extension de la caja de b\'usqueda hacia el extremo sur fue una limitante para aplicar el m\'etodo bishop (centro de la superficie de falla por fuera de la caja de b\'usqueda, en direccion sur) lo mismo ocurre con los pixeles marcados de color rojo hacia el extremo norte de la zona de trabajo (centro de la superficie de falla por fuera de la caja de b\'usqueda, en direccion norte)
 
 Sin embargo, dado que la cuenta de p\'ixeles donde se presenta dicho comportamiento es de 89 sobre un total de 28057, se puede decir que la caja de b\'usqueda usada es aplicable en un 99.996\% a la zona de trabajo.
 Para aumentar la cobertura ser\'ia necesario realizar pruebas en equipos de computo con mayores capacidades de computo a las descritas en el cap\'itulo 5.
@@ -100,7 +137,7 @@ Para aumentar la cobertura ser\'ia necesario realizar pruebas en equipos de comp
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.3]{img/fos3DCampo_coarse.pdf}
-\caption{Resolutado inicial de la ejecici\'on de Scoops 3D usando la configuraci\'on usada en las pruebas preliminares (caja de busqueda).}
+\caption{Resultado  de la ejecici\'on de Scoops 3D usando la configuraci\'on usada en las pruebas preliminares (caja de b\'usqueda).}
 \label{fig:fos3dout_coarse}
 \end{figure}
 
@@ -129,7 +166,7 @@ La calidad del producto generado por Scoops3D se ve altamente beneficiada por el
 
 \section{Recomendaciones}
 
-Previo al uso de la herramienta Scoops3D se recomienda en realizar un proceso de control de calidad sobre el DEM utilizado. Con el proposito de extraer los metadatos de extension horizontal y veltical del mismo para el momento de asignar las dimensiones a la caja de busqueda en Scoops3D.
+Previo al uso de la herramienta Scoops3D se recomienda en realizar un proceso de control de calidad sobre el DEM utilizado. Con el proposito de extraer los metadatos de extension horizontal y veltical del mismo para el momento de asignar las dimensiones a la caja de b\'usqueda en Scoops3D.
 
 Realizar un recorte (crop) al dem para evaluar en Scoops3D \'unicamente en la zona requerida, esto para reducir el timepo de ejecuci\'on de Scoops3D
 
