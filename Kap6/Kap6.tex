@@ -137,41 +137,43 @@ Para aumentar la cobertura ser\'ia necesario realizar pruebas en equipos de comp
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.3]{img/fos3DCampo_coarse.pdf}
-\caption{Resultado  de la ejecici\'on de Scoops 3D usando la configuraci\'on usada en las pruebas preliminares (caja de b\'usqueda).}
+\caption{Resultado  de la ejecuci\'on de Scoops 3D usando la configuraci\'on usada en las pruebas preliminares (caja de b\'usqueda).}
 \label{fig:fos3dout_coarse}
 \end{figure}
 
 
 Como resultado del an\'alisis probabil\'istico por medio del m\'etodo Bishop utilizando las valores de resistencia obtenidos en los an\'alisis de laboratorio realizadas a las muestras recolectadas del \'area de trabajo se obtiene el mapa de \emph{distribuciones de factores de seguridad} presentado en la figura \ref{fig:fos3dout_coarse}.
-Se analizaron un total de \(285\,744\) superficies de falla.
+Donde se analizaron un total de \(1\,665\,954\) superficies de falla.
 
-Como es de esperarse, los valores de factor de seguridad m\'as bajos se presentan hacia el suroccidente de la zona de trabajo, donde  son abundantes laderas con pendientes  largas y pronunciadas. All\'i los valores de factor de seguridad obtenidos de alcanzan \(1.46\) en cercan\'ias al Batolito Farallones y su aureola de contacto. 
+Se puede apreciar que, en los extremos sur occidental (a lo largo de las laderas que componen la cuenca de la quebrada La Linda) y norte de la zona de trabajo se presentan acumulaciones de lugares con disminucion de factores de seguridad los cuales varían frecuentemente entre 3 y 5. 
 
-Si se considera un \textit{cutoff} de 3.0 para el factor de seguridad, el cuerpo de masa de mayores dimensiones con factor de seguridad  inferior a dicho \textit{cutoff} ($2.43$ espec\'ificamente) posee una masa de $9.544\,\text{kg}$, in vol\'umen de 231.34 m3 y se extiende sobre 23.63 m3
+El sector con menor valor de F se encuentra ligeramente al norte de la Formaci\'on Barroso(Kvb) donde los suelos de la Formaci\'on Penderisco alcanzan F de 1.91.  Mediante las m\'etricas de Scoops3D entregadas por Scoops3D se puede determinar que dicha zona está compuesta por  $534.24\,\text{kg}$ de material y su v\'olumen es de $211.180\text{m}^{3}$
 
+
+A\'un considerando un valor de F mayor a 3.0 , en la zona de trabajo se encontraron un total de 1280 p\'ixeles con \textit{F} inferior a este valor. Teniendo en cuenta que el \'area de cada p\'ixel es de  $1460.65\,\text{m}^{2}$ el \'area  equivalente bajo tal \textit{cutoff} es de $1'869,636 \text{m}^{2}$
 
 
 \section{Conclusiones}
 
 
-Aunque se han encontrado zonas espec\'ificas con factor de seguridad bajo, estas abarcan pocas extensiones (poca superficie) y poco distribuidas, no se han detectado zonas de embergadura considerable con \textit{F} inferior a 3.0.
+Aunque se han encontrado zonas espec\'ificas con factor de seguridad bajo, estas abarcan pocas extensiones (poca superficie) y poco distribuidas, no se han detectado masas de suelo de gran embergadura con \textit{F} inferior a 3.0.
 
-La informaci\'on de cohesion, \'angulo de fricci\'on y peso especif\'ico tradicionalmente usado en Bishop simplificado para dos dimensiones puede usarse como insumo para extender el an\'alisis  de equilibrio l\'imite a 3D dimensiones.
+La informaci\'on de cohesion, \'angulo de fricci\'on y peso especif\'ico tradicionalmente usado en Bishop simplificado para dos dimensiones puede usarse como insumo para extender el an\'alisis  de equilibrio l\'imite a 3D dimensiones mediante el uso de herramientas computacionales ya disponibles.
 
 La calidad del producto generado por Scoops3D se ve altamente beneficiada por el uso de informaci\'on SIG de alto nivel de detalle, toda vez que reduce la aparici\'on de multiples subsets por esfera de b\'usqueda. 
 
 
-
+La posibilidad de extender los m\'etodos tradicionales de equilibrio l\'imite a 2 dimensiones y zonas extensas permite detectar sitios de baja estabilidad no consideradas mediante un estudio de cartograf\'ia b\'asica.
 
 
 \section{Recomendaciones}
 
-Previo al uso de la herramienta Scoops3D se recomienda en realizar un proceso de control de calidad sobre el DEM utilizado. Con el proposito de extraer los metadatos de extension horizontal y veltical del mismo para el momento de asignar las dimensiones a la caja de b\'usqueda en Scoops3D.
+Previo al uso de la herramienta Scoops3D se recomienda  realizar un proceso de control de calidad sobre el DEM a ser utilizado. Con el proposito de extraer los metadatos correspondientes a extension horizontal y vertical. Estos valores son necesarios para calcular las dimensiones de la caja de b\'usqueda que se emplear\'a en la ejecuci\'on de Scoops3D.
 
-Realizar un recorte (crop) al dem para evaluar en Scoops3D \'unicamente en la zona requerida, esto para reducir el timepo de ejecuci\'on de Scoops3D
+Realizar un recorte (crop) al dem para evaluar en Scoops3D \'unicamente en la zona requerida, esto para reducir el tiempo de ejecuci\'on de Scoops3D.
 
 Seleccionar siempre la opci\'on de Bishop dentro del menu de selecci\'on de an\'alisis de estabilidad, ya que esta opcio\'n calcula el factor de seguridad tanto por Bishop simplificado como por el m\'etodo de Fellenius.
 
-Siempre realizar corridas de prueba en Scoops3D con par\'ametros de resistencia estimados, para evaluar la optima configuraci\'on de Scoops3D, espec\'ificamente para verificar que la caja de b\'usqueda no sea una limitante al momento de evaluar los m\'etodos bishop y fellenius al DEM usado.
+Siempre realizar corridas de prueba en Scoops3D con par\'ametros de resistencia estimados, para evaluar la \'optima configuraci\'on de Scoops3D, espec\'ificamente para verificar que la caja de b\'usqueda no sea una limitante al momento de evaluar los m\'etodos bishop y fellenius al DEM usado. Los archivos _out.txt y _boundcheck_out.asc son de gran utilidad para determinar una caja de b\'usqueda que no represente una restricci\'on a la ejecuci\'on de Scoops3D.
 
 Al utitlizar modelos de elevaci\'on digital de alta resoluci\'on ($5m^{2}$ o inferior tama\~no de pixel) es aconsejable usar servicios de computaci\'on en la nube como Google Cloud Platform (GCP) o Amazon Web Services (AWS) y la l\'inea de comando (CLI) en Python. Esto para acelerar los tiempos de ejecuci\'on de Scoops3D
