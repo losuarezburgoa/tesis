@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  7 MAY 2019 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  22 MAY 2019 09:06
 entering extended mode
 **./TesisMSc.tex
 (TesisMSc.tex
@@ -1776,10 +1776,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11856 strings out of 492970
- 190662 string characters out of 3127038
+ 11857 strings out of 492970
+ 190677 string characters out of 3127038
  375094 words of memory out of 3000000
- 15345 multiletter control sequences out of 15000+200000
+ 15346 multiletter control sequences out of 15000+200000
  78089 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,16n,66p,9116b,1219s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1808,7 +1808,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/pipe/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Users/pipe/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Users/pipe/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on TesisMSc.pdf (62 pages, 6211182 bytes).
+Output written on TesisMSc.pdf (62 pages, 6211783 bytes).
 PDF statistics:
  847 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
