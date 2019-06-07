@@ -14,17 +14,17 @@ desarrollado por Blue Marvel.
 El software Global Mapper tiene la capacidad de exportar el formato ESRI ASCII que utiliza
 Scoops3D como insumo base, se recomienda exportar el DEM con la mayor resoluci\'{\o}n
 posible, en caso de requerir agilizar el tiempo de procesamiento en Scoops3D, se
-recomienda disminuir resoluci\'{\o}n espacial al DEM. Lo cual se puede lograr f\'{a}cilmente con la
+recomienda disminuir resoluci\'on espacial al DEM. Lo cual se puede lograr f\'{a}cilmente con la
 herramienta Resample de ArcGIS en sus versiones 10 y superior (
 Tool Geoprocessing
 toolboxes $ (\setminus system toolboxes \setminus data management tools.tbx \setminus raster \setminus raster processing \setminus resample)$ y posteriormente la
 herramienta \textbf{Raster to ASCII} $(toolboxes \setminus system toolboxes \setminus conversion tools.tbx \setminus from raster \setminus raster to ascii)$ en el software Qgis con la
 herramienta Raster Calculator.\\
 Debido a que Scoops3D no acepta sistemas de coordenadas geogr\'{a}ficas sino proyectadas,
-se trabaj\'{\o} con el sistema de coordenadas MAGNA SIRGAS Colombia West zone. 
-Se pudo comprobar que el idioma y la configuraci\'{\o}n regional puede causar que el archivo
-DEM base pueda no ser compatible con Scoops3D debido al formato de separaci\'{\o}n de
-decimales y unidades de miles. A continuaci\'{\o}n se muestra un archivo DEM incompatible y
+se trabaj\'o con el sistema de coordenadas MAGNA SIRGAS Colombia West zone. 
+Se pudo comprobar que el idioma y la configuraci\'on regional puede causar que el archivo
+DEM base pueda no ser compatible con Scoops3D debido al formato de separaci\'on de
+decimales y unidades de miles. A continuaci\'on se muestra un archivo DEM incompatible y
 uno compatible con Scoops 3D.
 
 \begin{verbatim}
@@ -38,8 +38,8 @@ uno compatible con Scoops 3D.
 	   2,5 -9999
 \end{verbatim}
 
-N\'{o}tese que la separaci\'{o}n de decimales se realiza con el car\'{a}cter coma (,). Esto como
-resultado de la configuraci\'{o}n por defecto del sistema operativo Windows 10 en regiones
+N\'{o}tese que la separaci\'on de decimales se realiza con el car\'{a}cter coma (,). Esto como
+resultado de la configuraci\'on por defecto del sistema operativo Windows 10 en regiones
 como am\'{e}rica latina y espa\~na.
 Al introducir un archivo DEM con el formato anteriormente ejemplificado en Scoops3D, se
 obtiene el siguiente error.
