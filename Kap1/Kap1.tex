@@ -1,30 +1,30 @@
 \chapter{Introducci\'{o}n}
-Tradicionalmente, desde sus comienzos en la d\'ecada de los a\~{n}os 30, la estabilidad de laderas se ha concebido como un m\'etodo para estimar la probabilidad de que un talud, escarpe o ladera presente inestabilidad o pueda ceder ante la incapacidad de los materiales que la componen para sostener su peso en estado parcial o totalmente saturado.\\
+Tradicionalmente desde sus comienzos en la d\'ecada de los a\~{n}os 30, el an\'alisis de estabilidad por métodos geom\'etricos de laderas se ha concebido como un m\'etodo para estimar la probabilidad de que un talud (escarpe o ladera) presente inestabilidad o pueda ceder ante la incapacidad de los materiales que la componen para sostener su peso en estado parcial o totalmente saturado.\\
 
 
 En el a\~{n}o 1937 Fellenius propone el m\'etodo de dobelas para simular la probabilidad de ocurrencia de deslizamientos tipo rotacional en macizos de suelo. Para ello se selecciona un lugar que se considera representativo del macizo, en el cual se intersecta un plano imaginario ortogonal a la direcci\'on de plunge de la ladera, para obtener un perfil de elevaci\'on bajo el cual se modelan los estratos que componen el macizo de suelo y roca.\\
 
-Aplicado correctamente, este planteamiento ha probado ser acertado al extrapolar los an\'alisis de la zona seleccionada al macizo en caso de estudio. Para distintas formulaciones matem\'aticas han sido propuestas  con el objetivo de simular de manera precisa la interacci\'on de fuerzas que se produce entre dobelas.
+Aplicado correctamente, este planteamiento ha probado ser acertado al extrapolar los an\'alisis de la zona seleccionada al macizo en caso de estudio. Algunas formulaciones han sido propuestas con el objetivo de simular de manera precisa la interacci\'on de fuerzas que se produce entre dobelas.
 
-Gracias a la capacidad de computo a la que se tiene acceso hoy en d\'ia, es posible evaluar tridimensionalmente una superficie con ayuda de los Sistemas de Informaci\'on Geogr\'afica (SIG) la cual es representada por medio de un Modelo de elevaci\'on Digital (\textit{Digital Elevation Model}, DEM por sus siglas en ingl\'es) el cual es un archivo raster, es decir, que se compone por celdas (p\'ixeles) cada una de las cuales posee un valor de elevaci\'on sobre un nivel de referencia.
-\\
-De esta forma el m\'etodo de dobelas pasa a ser un an\'alisis de columnas el cual no se limita a una secci\'on infinitesimalmente estrecha, sino que es posible analizar la totalidad de la zona de inter\'es.\par
+Gracias a la capacidad de computo a la que se tiene acceso hoy en d\'ia, es posible evaluar tridimensionalmente una superficie del terreno con ayuda de los Sistemas de Informaci\'on Geogr\'afica (SIG) la cual es representada por medio de un Modelo de elevaci\'on Digital (\textit{Digital Elevation Model}, DEM por sus siglas en ingl\'es) el cual se almacena en un \emph{archivo raster}; es decir, que se compone por celdas (p\'ixeles) cada una de las cuales posee un valor de elevaci\'on sobre un nivel de referencia. En el an\'álisis tridimensional, los p'ixeles se denominan \emph{v\'oxeles}.
 
-Como objetivo de este estudio se plantea Realizar un an\'alisis tridimensional de equilibrio l\'imite por movimientos en masa para la cuenca hidrogr\'afica de la quebrada La Linda en la Vereda Monte Loro en Ciudad Bol\'ivar (Antioquia) mediante el programa Scoops 3D.
-Su importancia se deriva de que la zona de estudio se encuentra altamente poblada \cite{sgc2013} con abundancia de cultivos agr\'icolas que ha presentado ocurrencia documentada de movimientos en masa tipo rotacional.\\
+De esta forma, el m\'etodo de dobelas pasa a ser un an\'alisis de columnas (prismas) el cual no se limita a una secci\'on infinitesimalmente estrecha, sino que es posible analizar la totalidad de la zona de inter\'es.
 
-Para llevar a cabo dicho estudio se plantean como objetivos espec\'ificos 
+Como objetivo de este estudio se plantea \emph{realizar un an\'alisis tridimensional de equilibrio l\'imite por movimientos en masa} para la cuenca hidrogr\'afica de la quebrada La Linda en la Vereda Monte Loro en Ciudad Bol\'ivar (Antioquia) mediante el programa computacional de licencia libre Scoops~3D.
+Su importancia se deriva a que la zona de estudio se encuentra altamente poblada \cite{sgc2013} con abundancia de cultivos agr\'icolas que ha presentado ocurrencia documentada de movimientos en masa tipo rotacional.\\
 
-\begin{itemize}
-\item Proponer una metodolog\'ia para la obtenci\'on de DEM, y par\'ametros de resistencia a usar en el software Scoops 3D.
-\item Producir un mapa de la zona de estudio sobre el cual puedan verse los factores de seguridad y su distribuci\'on en La Vereda Monteloro.
-\item Realizar control de calidad a informaci\'on SIG y distribuci\'on de factores de seguridad obtenidos.
-\item Interpretar la distribuci\'on del factor de seguridad obtenida y su correlaci\'on con los factores que controlan su variabilidad.
+Para llevar a cabo dicho estudio se plantea como objetivos espec\'ificos  los siguientes.
 
+\begin{enumerate}
+    \item Proponer una metodolog\'ia para la obtenci\'on de DEM y la obtenci\'on de par\'ametros de resistencia a usar en el software Scoops~3D.
+    \item Producir un mapa de la zona de estudio sobre el cual puedan verse los \emph{factores de seguridad} (FS) y su distribuci\'on de estos valores sobre la proyecci\'on vertical representado en un mapa en planta en La Vereda Monteloro.
+    \item Realizar control de calidad a informaci\'on SIG y distribuci\'on de factores de seguridad obtenidos.
+    \item Interpretar la distribuci\'on del factor de seguridad obtenida y su relaci\'on con los factores que controlan su variabilidad.
+\end{enumerate} 
 
-\end{itemize} 
+Inicialmente se han realizado \emph{pruebas piloto} para comprobar el correcto funcionamiento del software con los datos fuente obtenidos.
+El resultado del uso del software Scoops~3D es una im\'agen raster monocrom\'atica en la cual el valor de cada v\'oxel corresponde al factor de seguridad calculado por el m\'etodo de Bishop para la totalidad de la zona trabajada. 
 
-Inicialmente se han realizado pruebas piloto para comprobar el correcto funcionamiento del software con los datos fuente obtenidos.
-El resultado del uso del software Scoops3D es una im\'agen raster monocrom\'atica en la cual el valor de cada p\'ixel corresponde al factor de seguridad calculado por el m\'etodo de Bishop para la totalidad de la zona trabajada. Finalmente, se podr\'a determinar la  correlaci\'on que existe entre los factores de seguridad obtenidos y las variable tenidos en cuenta, como lo son: pendiente, cohesi\'on de los materiales, resistencia al corte directo y humedad.
+Finalmente, se podr\'a determinar la  relaci\'on que existe entre los factores de seguridad obtenidos y las variables tenidas en cuenta, como: la pendiente, la cohesi\'on de los materiales, la resistencia al corte directo y humedad.
 \\
 
